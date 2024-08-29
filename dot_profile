@@ -35,4 +35,4 @@ fi
 export PATH="$PATH:/home/epoiate/.local/share/JetBrains/Toolbox/scripts"
 
 # tmuxifier
-eval "$(tmuxifier init -)"
+# eval "$(tmuxifier init -)"
