@@ -4,7 +4,6 @@ return {
         ensure_installed = {
             "angular-language-server",
             "lua-language-server",
-            "typescript-language-server",
         },
     },
 }
