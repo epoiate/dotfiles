@@ -4,6 +4,7 @@ return {
         local opts = {
             formatters_by_ft = {
                 sh = { "shfmt" },
+                typescript = { "vtsls", "ts_ls", "prettier" },
             },
             formatters = {
                 shfmt = {
