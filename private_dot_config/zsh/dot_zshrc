@@ -121,6 +121,7 @@ export PATH=$PATH:~/.config/tmux/plugins/tmuxifier/bin
 eval "$(tmuxifier init -)"
 
 alias cz="chezmoi"
+alias tree="tree -I 'node_modules|dist'"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"                   # This loads nvm
