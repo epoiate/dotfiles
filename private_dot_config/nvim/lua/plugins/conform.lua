@@ -5,6 +5,7 @@ return {
             formatters_by_ft = {
                 sh = { "shfmt" },
                 typescript = { "vtsls", "ts_ls", "prettier" },
+                html = { "prettier" },
             },
             formatters = {
                 shfmt = {
