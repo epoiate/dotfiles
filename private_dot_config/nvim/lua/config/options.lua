@@ -1,7 +1,6 @@
 -- Options are automatically loaded before lazy.nvim startup
 -- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
 -- Add any additional options here
---
 
 vim.o.expandtab = true -- converts tabs to white space
 vim.o.tabstop = 4 -- set size of TAB
@@ -18,3 +17,12 @@ vim.o.scrolloff = 999 -- keep 4 lines off the edges of the screen when scrolling
 vim.o.list = true -- show invisible characters
 vim.opt.listchars = { trail = "·", eol = "¬", extends = "»", precedes = "«" } -- set invisible characters
 vim.g.tutor_is_loaded = 1
+
+-- Enable the option to require a Prettier config file
+-- If no prettier config file is found, the formatter will not be used
+vim.g.lazyvim_prettier_needs_config = true
+
+vim.g.tokyonight_colors = { border = "orange" }
+
+-- Disable animations globally
+vim.g.snacks_animate = false

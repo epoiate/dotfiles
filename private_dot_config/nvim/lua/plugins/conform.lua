@@ -1,18 +1,9 @@
 return {
     "stevearc/conform.nvim",
-    opts = function()
-        local opts = {
-            formatters_by_ft = {
-                sh = { "shfmt" },
-                typescript = { "vtsls", "ts_ls", "prettier" },
-                html = { "prettier" },
-            },
-            formatters = {
-                shfmt = {
-                    prepend_args = { "-i", vim.o.tabstop },
-                },
-            },
-        }
-        return opts
-    end,
+    opts = {
+        formatters_by_ft = {
+            htmlangular = { "prettier", "eslint_d" },
+            lua = { "stylua" },
+        },
+    },
 }
