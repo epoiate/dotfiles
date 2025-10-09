@@ -22,7 +22,7 @@ vim.g.tutor_is_loaded = 1
 -- If no prettier config file is found, the formatter will not be used
 vim.g.lazyvim_prettier_needs_config = true
 
-vim.g.tokyonight_colors = { border = "orange" }
+-- vim.g.tokyonight_colors = { border = "orange" }
 
 -- Disable animations globally
 vim.g.snacks_animate = false

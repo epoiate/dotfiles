@@ -5,5 +5,5 @@
 -- vim.keymap.set("n", "<C-d>", "<C-d>zz", { desc = "Scroll down" })
 -- vim.keymap.set("n", "<C-u>", "<C-u>zz", { desc = "Scroll up" })
 
-vim.keymap.set("n", "q:", ":q")
+-- vim.keymap.set("n", "q:", ":q")
 vim.keymap.set({ "n", "v" }, "<leader>p", '"0p', { desc = "Special paste" })
