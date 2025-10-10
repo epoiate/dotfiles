@@ -1,4 +1,4 @@
 return {
-    "shrynx/line-numbers.nvim",
-    opts = {},
+  "shrynx/line-numbers.nvim",
+  opts = {},
 }
