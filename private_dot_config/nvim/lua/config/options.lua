@@ -26,3 +26,10 @@ vim.g.tokyonight_colors = { border = "orange" }
 
 -- Disable animations globally
 vim.g.snacks_animate = false
+
+-- Enable autoread and set up checking triggers
+vim.o.autoread = true
+vim.api.nvim_create_autocmd({ "FocusGained", "BufEnter" }, {
+  command = "if mode() != 'c' | checktime | endif",
+  pattern = "*",
+})

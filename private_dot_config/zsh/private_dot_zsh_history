@@ -1,0 +1,2886 @@
+: 1745430376:0;npm install
+: 1745441006:0;git status
+: 1745441091:0;git add projects/trade/src/app/trade/
+: 1745441093:0;git status
+: 1745441106:0;git commit
+: 1745441132:0;git push-dev
+: 1745502674:0;which npm
+: 1745503468:0;npm install --global @angular/cli@12
+: 1745504323:0;git status
+: 1745504325:0;git dog
+: 1745504356:0;git reset HEAD~1 --mixed
+: 1745504405:0;git status
+: 1745504412:0;git add -i
+: 1745504817:0;git status
+: 1745504830:0;git diff
+: 1745504855:0;git diff --staged
+: 1745504900:0;git commit 
+: 1745504924:0;git status
+: 1745504966:0;git stash -- projects/trade/src/app/trade/
+: 1745504969:0;git status
+: 1745505007:0;git add projects/trade/src/
+: 1745505009:0;git status
+: 1745505016:0;git amend-ne
+: 1745505018:0;git status
+: 1745505037:0;git stash pop
+: 1745513639:0;git stash -- projects/trade/src/app/trade/
+: 1745515766:0;git pull 
+: 1745515848:0;git pull &
+: 1745515869:0;jobs
+: 1745516030:0;mv /home/epoiate/Downloads/927d4ad.diff.zip .
+: 1745516036:0;ls
+: 1745516050:0;unzip 927d4ad.diff.zip teste
+: 1745516060:0;mkdir teste
+: 1745516062:0;unzip 927d4ad.diff.zip teste
+: 1745516087:0;jobs
+: 1745516092:0;kill%2
+: 1745516103:0;jobs
+: 1745516115:0;unzip 927d4ad.diff.zip 
+: 1745516120:0;ls
+: 1745516140:0;git apply 927d4ad.diff
+: 1745516143:0;git dog
+: 1745516179:0;git fetch ssh://empoiate@gerrit.mot.com:29418/iDEN_2.0/server/PortalAdmin refs/changes/87/3341487/6 && git cherry-pick FETCH_HEAD
+: 1745516204:0;bg
+: 1745516248:0;git fetch ssh://empoiate@gerrit.mot.com:29418/iDEN_2.0/server/PortalAdmin refs/changes/99/3361399/5 && git cherry-pick FETCH_HEAD
+: 1745516315:0;git status
+: 1745516336:0;git restore projects/trade/src/app/trade/
+: 1745516340:0;git status
+: 1745516358:0;rm -rf projects/trade/src/app/trade/no-sale-item/photos-collected/components/
+: 1745516370:0;git cp 927d4adec9c125395adc4d8ab0664d1c8b7660f1
+: 1745516373:0;git dog
+: 1745516389:0;git cp 927d4adec9c125395adc4d8ab0664d1c8b7660f1
+: 1745516396:0;git cp --abort
+: 1745516404:0;git cp 69595a415aab7ce2abe3e0486b7eeef1f66dc9bc
+: 1745516409:0;git status
+: 1745516416:0;lazygit
+: 1745516468:0;git status
+: 1745516475:0;git cp --continue
+: 1753999951:0;git dog
+: 1753999967:0;git rb
+: 1753999977:0;git rb origin/release
+: 1754000083:0;git status
+: 1754000088:0;git rbc
+: 1754054291:0;git pull
+: 1754054302:0;.....
+: 1754054304:0;....
+: 1754054305:0;..
+: 1754054308:0;git pull
+: 1754068780:0;git rb
+: 1754068788:0;git rb origin/release
+: 1754068839:0;git stash
+: 1754074949:0;git status
+: 1754074958:0;git dog
+: 1754075043:0;git switch mototalk-server
+: 1754075047:0;git rb
+: 1754075051:0;git pull
+: 1754075219:0;git switch root-module
+: 1754075222:0;git rb ;
+: 1754075228:0;git rb origin/release
+: 1754075255:0;git switch release
+: 1754075269:0;git reset root-module --h
+: 1754075278:0;git rbia
+: 1754075560:0;git dog
+: 1754075569:0;git rbia
+: 1754075696:0;git dog
+: 1754075699:0;git amend
+: 1754075726:0;git push-server
+: 1754075811:0;git rbia
+: 1754076715:0;git rbc
+: 1754308355:0;git status
+: 1754308367:0;git dog
+: 1754308572:0;git status
+: 1754308577:0;git switch root-module
+: 1754308592:0;git rbia release
+: 1754308613:0;git rbia release~
+: 1754308655:0;git switch release
+: 1754308667:0;git dog release root-module
+: 1754308687:0;git reset root-module --h
+: 1754308690:0;git status
+: 1754308698:0;git rbia
+: 1754308762:0;git dog
+: 1754308786:0;git rbia
+: 1754308848:0;git log
+: 1754308856:0;git dog
+: 1754308878:0;git push-server
+: 1754308899:0;git pull
+: 1754308935:0;git dog
+: 1754308971:0;git push origin HEAD~:refs/changes/3489760
+: 1754308987:0;git push origin HEAD:refs/changes/3489760
+: 1754309025:0;git switch mototalk-server
+: 1754309027:0;git rb
+: 1754309030:0;git dog
+: 1754309049:0;git dog release
+: 1754309079:0;git cp b7499fed1 6cf60103f b51a3b7b2
+: 1754309091:0;git log
+: 1754309113:0;git rbia
+: 1754309126:0;git push-server
+: 1754310828:0;git pull
+: 1754314353:0;git status
+: 1754314365:0;git dog root-module
+: 1754314382:0;git dog
+: 1754314395:0;git reset HEAD~1 --h
+: 1754314397:0;git status
+: 1754314411:0;git switch root-module
+: 1754314420:0;git rbia mototalk-server
+: 1754314442:0;git dog release
+: 1754314449:0;git switch release
+: 1754314454:0;git reset HEAD~1 --h
+: 1754314461:0;git switch root-module
+: 1754314470:0;git rbia release
+: 1754314546:0;git dog
+: 1754314635:0;git rbia
+: 1754314638:0;git rbia release
+: 1754314668:0;git switch mototalk-server
+: 1754314674:0;git dog root-module
+: 1754314686:0;git cp 45d7da250
+: 1754314707:0;git switch release
+: 1754314709:0;git dog
+: 1754314722:0;git reset mototalk-server --h
+: 1754314782:0;git switch root-module
+: 1754314785:0;git rbia release
+: 1754314797:0;git rba
+: 1754314801:0;git rbia release
+: 1754314811:0;git rba
+: 1754314814:0;git dog
+: 1754314828:0;git dog root-module release
+: 1754314842:0;git switch release
+: 1754314862:0;git reset origin/release
+: 1754314866:0;git reset origin/release --h
+: 1754314903:0;git branch -D v1.13 
+: 1754314906:0;git status
+: 1754314969:0;git switch mototalk-server
+: 1754314975:0;git dog root-module
+: 1754315002:0;git cp b4d795d8a..root-module
+: 1754315008:0;git switch root-module
+: 1754315016:0;git reset mototalk-server --h
+: 1754315023:0;git switch mototalk-server
+: 1754315027:0;git rbia
+: 1754315073:0;git dog
+: 1754315161:0;git switch -c temp
+: 1754315170:0;git reset origin/mototalk-server --h
+: 1754315178:0;git fetch ssh://empoiate@gerrit.mot.com:29418/iDEN_2.0/server/PortalAdmin refs/changes/59/3489759/2 && git cherry-pick FETCH_HEAD
+: 1754315201:0;git dog mototalk-server
+: 1754315223:0;git dog
+: 1754315262:0;git reset origin/mototalk-server --h
+: 1754315266:0;git dog mototalk-server
+: 1754315281:0;git cp a53c4bc
+: 1754315718:0;git fetch
+: 1754315760:0;git rb origin/mototalk-server
+: 1754315805:0;git dog
+: 1754315823:0;git dog mototalk-server
+: 1754315839:0;git cp b60f1ef54..mototalk-server
+: 1754315844:0;git dog
+: 1754315868:0;git cpa
+: 1754315875:0;git cp b60f1ef54
+: 1754315928:0;git cpa
+: 1754315934:0;git switch mototalk-server
+: 1754315954:0;git cp --abort
+: 1754315957:0;git switch mototalk-server
+: 1754315963:0;git rb
+: 1754315968:0;git status
+: 1754315972:0;git dog
+: 1754316330:0;git push-server
+: 1754316380:0;git dog
+: 1754316397:0;git reset HEAD~1 --h
+: 1754316403:0;git switch root-module
+: 1754316409:0;git rbia mototalk-server
+: 1754316799:0;git dog
+: 1754316853:0;git rbia mototalk-server
+: 1754317351:0;git dog
+: 1754317377:0;git rbia origin/mototalk-server
+: 1754317390:0;git dog
+: 1754317412:0;git switch mototalk-server
+: 1754317422:0;git fetch &
+: 1754317427:0;git reset root-module --h
+: 1754317436:0;git rbia
+: 1754317519:0;git dog
+: 1754317522:0;git log
+: 1754317548:0;git push-server
+: 1754317614:0;git reset HEAD~1 --h
+: 1754317623:0;git switch root-module
+: 1754317627:0;git dog
+: 1754317646:0;git rbia origin/mototalk-server
+: 1754317696:0;git status
+: 1754317702:0;git switch mototalk-server
+: 1754317714:0;git reset root-module --h
+: 1754317717:0;git rbia
+: 1754317773:0;git dog
+: 1754317783:0;git push-server
+: 1754317876:0;git status
+: 1754317878:0;git dog
+: 1754317891:0;git switch root-module
+: 1754317893:0;git dog
+: 1754317946:0;git branch -D shared-module
+: 1754318091:0;git rbia origin/mototalk-server
+: 1754318124:0;history | grep commit
+: 1754318194:0;history | grep reuse
+: 1754318199:0;history | grep -C HEAD
+: 1754318207:0;git dog
+: 1754318213:0;git log
+: 1754318232:0;git reset HEAD~1 --h
+: 1754318244:0;git rb --abort
+: 1754318250:0;git rbia origin/mototalk-server
+: 1754318258:0;git reset HEAD~1 --h
+: 1754318262:0;git rb --abort
+: 1754318265:0;git rbia origin/mototalk-server
+: 1754318273:0;git reset HEAD~1 --s
+: 1754318275:0;git status
+: 1754318292:0;git restore projects/trade/src/app/ --staged
+: 1754318294:0;git status
+: 1754318323:0;git commit -C HEAD@{1}
+: 1754318327:0;git log
+: 1754318347:0;git rbc
+: 1754318351:0;git status
+: 1754318358:0;git restore projects/trade/src/app/
+: 1754318360:0;git status
+: 1754318363:0;git rbc
+: 1754318367:0;git status
+: 1754318381:0;git switch mototalk-server
+: 1754318383:0;git status
+: 1754318388:0;git dog root-module
+: 1754318396:0;git rbia
+: 1754318420:0;git dog root-module mototalk-server
+: 1754318427:0;git dog
+: 1754318436:0;git push-server
+: 1754318905:0;git dog
+: 1754319114:0;git status
+: 1754319118:0;git add .
+: 1754319138:0;git absorb --help
+: 1754319218:0;git dog
+: 1754319225:0;git add . 
+: 1754319235:0;git fixup 38f83a776
+: 1754319290:0;git status
+: 1754319349:0;git dog
+: 1754319358:0;git rbi
+: 1754319363:0;git rbia
+: 1754319367:0;git dog
+: 1754319379:0;git rbi
+: 1754319450:0;git status
+: 1754319453:0;git dog
+: 1754319474:0;git status
+: 1754319478:0;git reset HEAD~1 --s
+: 1754319480:0;git status
+: 1754319495:0;git restore --staged src/app/inventory/
+: 1754319498:0;git status
+: 1754319502:0;git commit -C HEAD@{1}
+: 1754319508:0;git stash
+: 1754319516:0;git rbc
+: 1754319614:0;git rb --abort
+: 1754319619:0;git rbia
+: 1754319635:0;git stash clear
+: 1754319643:0;git reset HEAD~1 --s
+: 1754319645:0;git status
+: 1754319654:0;git restore --staged src/app/inventory/
+: 1754319659:0;git status
+: 1754319664:0;git commit -C HEAD@{1}
+: 1754319668:0;git status
+: 1754319671:0;git stash
+: 1754319753:0;git stash pop
+: 1754319758:0;git add . 
+: 1754319760:0;git commit
+: 1754319876:0;git status
+: 1754319886:0;git rbc
+: 1754319889:0;git dog
+: 1754319894:0;git rbia
+: 1754319941:0;git rbc
+: 1754319947:0;git rbia
+: 1754319962:0;git status
+: 1754319967:0;git dog
+: 1754320258:0;git status
+: 1754320263:0;git dog root-module
+: 1754320597:0;git status
+: 1754320598:0;git dog
+: 1754320604:0;git amend-ne-a
+: 1754320608:0;git status
+: 1754320716:0;git add .
+: 1754320720:0;git commit
+: 1754320830:0;git status
+: 1754320837:0;git fh
+: 1754320840:0;git fh -a
+: 1754320843:0;git status
+: 1754321406:0;git add .
+: 1754321409:0;git status
+: 1754321433:0;git dog
+: 1754321445:0;git reset HEAD~1 --h
+: 1754321451:0;git dog
+: 1754321455:0;git push-server
+: 1754325604:0;git switch tmp
+: 1754325609:0;git switch temp
+: 1754325619:0;git reset origin/mototalk-server --h
+: 1754325623:0;git dog mototalk-server
+: 1754325636:0;git cp 9cc2547fc
+: 1754326231:0;git switch mototalk-server
+: 1754335222:0;git switch anguar-13
+: 1754335226:0;git switch angular-13
+: 1754335248:0;git reset mototalk-server --h
+: 1754335261:0;npm install
+: 1754335470:0;git status
+: 1754335478:0;rm -rf .angular 
+: 1754340961:0;git status
+: 1754340963:0;git add .
+: 1754340965:0;git dog
+: 1754340985:0;git fixup 9cc2547f
+: 1754340993:0;git rbia
+: 1754341041:0;git push origin HEAD:refs/changes/3491724
+: 1754341100:0;git status
+: 1754341114:0;git rbc
+: 1754341117:0;git dog
+: 1754345212:0;git status
+: 1754345215:0;git add .
+: 1754345219:0;git commit
+: 1754345245:0;git rbia
+: 1754345252:0;git rbia mototalk-server
+: 1754345266:0;git amend
+: 1754345333:0;git dog
+: 1754345360:0;git push origin HEAD:refs/for/mototalk-server
+: 1754394611:0;git switch homologation
+: 1754394626:0;git pull
+: 1754394697:0;git dog mototalk-server
+: 1754394711:0;git cp origin/mototalk-server
+: 1754395067:0;git cp --abort
+: 1754395070:0;git cp origin/mototalk-server
+: 1754395078:0;git status
+: 1754395080:0;git add .
+: 1754395082:0;git cp --abort
+: 1754395086:0;git cp origin/mototalk-server
+: 1754395178:0;git add .
+: 1754395184:0;git cp --continue
+: 1754395216:0;git push-homolog
+: 1754399270:0;ng serve -c staging
+: 1754399513:0;ng serve -c staging trade
+: 1754399590:0;ng serve --help
+: 1754400322:0;ng serve -c staging trade
+: 1754400439:0;ng serve -c staging motosafe
+: 1754402269:0;git status
+: 1754402301:0;git switch -c temp
+: 1754402307:0;git branch -D temp
+: 1754402309:0;git switch -c temp
+: 1754402312:0;git reset mototalk-server --h
+: 1754403258:0;clear
+: 1754403267:0;git add .
+: 1754403289:0;git status
+: 1754403294:0;rm -rf .angular 
+: 1754403298:0;git add .
+: 1754403300:0;git commit
+: 1754403380:0;ng update --force @angular/cli@13
+: 1754403645:0;git add .
+: 1754403648:0;git commit
+: 1754403688:0;ng update
+: 1754403702:0;git status
+: 1754403749:0;ng update --force @angular-eslint/schematics@13
+: 1754403980:0;ng update
+: 1754404000:0;ng update @angular/cdk@13 --force
+: 1754404010:0;git status
+: 1754404012:0;git add .
+: 1754404014:0;git commit
+: 1754404031:0;ng update @angular/cdk@13 --force
+: 1754404228:0;git status
+: 1754404230:0;git add .
+: 1754404233:0;git commit
+: 1754404251:0;ng update
+: 1754404271:0;ng update @angular-architects/module-federation@13
+: 1754404297:0;ng update @angular-architects/module-federation@13 --force
+: 1754404320:0;npm install  primeng@13 ng-apexcharts@1.7.0 lodash-es@4.17.5
+: 1754404479:0;npm install --save-dev ngx-build-plus@13 @types/lodash-es@4.17.5
+: 1754404518:0;npm install @ngx-translate/core@14 @ngx-translate/http-loader@7
+: 1754404542:0;npm install ngx-countdown@13 ngx-image-cropper@7
+: 1754404593:0;ng update @angular-architects/module-federation@~14.2.0
+: 1754404601:0;git status
+: 1754404606:0;git commit -a
+: 1754404621:0;ng update @angular-architects/module-federation@~14.2.0
+: 1754404782:0;ng update @angular-architects/module-federation@13
+: 1754404795:0;git reset HEAD --h
+: 1754404797:0;ng update @angular-architects/module-federation@13
+: 1754404824:0;git dog
+: 1754404896:0;git amend-ne-a
+: 1754404903:0;ng update @angular-architects/module-federation@13
+: 1754404913:0;npm install
+: 1754405058:0;ng update @angular-architects/module-federation@13
+: 1754405068:0;git status
+: 1754405070:0;git add .
+: 1754405074:0;git amend-ne-a
+: 1754405077:0;ng update @angular-architects/module-federation@13
+: 1754405198:0;git status
+: 1754405251:0;git commit -a
+: 1754405274:0;ng update @angular-architects/module-federation@14.2.3
+: 1754405413:0;npm install
+: 1754405424:0;git 
+: 1754405427:0;git status
+: 1754405534:0;git commit -a
+: 1754405597:0;npm install
+: 1754405628:0;git amend-ne-a
+: 1754405663:0;git cp angular-13
+: 1754405776:0;npm install
+: 1754405870:0;git add .
+: 1754405876:0;git cp --continue
+: 1754405904:0;git status
+: 1754405925:0;git checkout angular-13 -- .
+: 1754418959:0;npm install @angular-architecs/module-federation@13
+: 1754418981:0;npm install @angular-architects/module-federation@13
+: 1754419008:0;git amend-ne-a
+: 1754419023:0;ng serve -c staging
+: 1754419595:0;npm install
+: 1754419638:0;ng serve -c staging
+: 1754419966:0;git status
+: 1754419969:0;git amend-ne-a
+: 1754420334:0;ng serve -c staging trade
+: 1754441455:0;ng serve -c staging
+: 1754442589:0;ng serve -c staging trade
+: 1754486869:0;git reset HEAD --h
+: 1754486883:0;git dog
+: 1754488105:0;git status
+: 1754488111:0;git adog
+: 1754488125:0;git dog mototalk-server
+: 1754488139:0;git dog angular-13
+: 1754488147:0;git switch angular-13
+: 1754488155:0;git reset tmp --h
+: 1754488164:0;git reset temp --h
+: 1754505226:0;node deploy.js development
+: 1754505426:0;./deploy-trade-module.sh dev
+: 1754505430:0;./deploy-trade-module.sh -dev
+: 1754507338:0;npm ci
+: 1754507725:0;git add jest.config.ts 
+: 1754507731:0;git commit 
+: 1754508268:0;node deploy.js development
+: 1754508427:0;ng serve -c staging
+: 1754508491:0;git dog
+: 1754508522:0;git rbia temp^
+: 1754508533:0;git dog
+: 1754508539:0;git branch -D temp
+: 1754508723:0;ng serve -c staging trade
+: 1754510658:0;node deploy.js development
+: 1754511134:0;git status
+: 1754511144:0;git add src/app/people/employee-management/data-service/employee-data.service.spec.ts
+: 1754511146:0;git dog
+: 1754511167:0;git fixup 780ebb5d5
+: 1754511170:0;git rbia
+: 1754511179:0;git rbia mototalk-server
+: 1754511186:0;git status
+: 1754511425:0;aws cloudfront create-invalidation --distribution-id E229Z3EBB19PXO --paths '/*'
+: 1754511732:0;ng serve -c staging
+: 1754511764:0;git dog
+: 1754511937:0;ng serve -c staging trade
+: 1754512927:0;npm list webpack-dev-server
+: 1754513194:0;ng serve -c staging trade
+: 1754513578:0;git status
+: 1754513582:0;git add projects/
+: 1754513587:0;git commit
+: 1754513674:0;git rbia
+: 1754513711:0;git status
+: 1754513715:0;git dog
+: 1754513726:0;git rbia mototalk-server
+: 1754513853:0;git reset HEAD~ --s
+: 1754513932:0;npm i
+: 1754513969:0;git status
+: 1754513971:0;git add .
+: 1754513977:0;git commit -C HEAD@{1}
+: 1754514007:0;npm i
+: 1754514036:0;git status
+: 1754514038:0;git add .
+: 1754514042:0;git commit
+: 1754514057:0;git rb --continue
+: 1754514061:0;git dog
+: 1754514071:0;git rbia mototalk-server
+: 1754514126:0;git dog
+: 1754514257:0;git reset HEAD~ --s
+: 1754514262:0;git status
+: 1754514324:0;git add src/app/tracker
+: 1754514327:0;git status
+: 1754514337:0;git reset HEAD --m
+: 1754514343:0;git reset HEAD --mixed
+: 1754514346:0;git status
+: 1754514352:0;git add src/app/tracker/
+: 1754514356:0;git dog
+: 1754514374:0;git fixup e312d2766
+: 1754514377:0;git dog
+: 1754514380:0;git status
+: 1754514431:0;git add package*
+: 1754514433:0;git status
+: 1754514512:0;git add webpack.config.js projects/**/webpack.config.js
+: 1754514514:0;git status
+: 1754514545:0;git add src/app/app-routing.module.ts
+: 1754514551:0;git status
+: 1754514611:0;ng serve -c staging trade
+: 1754514714:0;npm i
+: 1754514739:0;git status
+: 1754514744:0;ng serve -c staging trade
+: 1754514970:0;git status
+: 1754514975:0;git add angular.json
+: 1754514979:0;git commit
+: 1754514996:0;git status
+: 1754515006:0;git stash
+: 1754515019:0;git dog
+: 1754515087:0;git switch mototalk-server
+: 1754515089:0;git pull
+: 1754515158:0;git dog
+: 1754515165:0;git switch homologation
+: 1754515183:0;git switch angular-13
+: 1754515209:0;git dog mototalk-server
+: 1754515216:0;git rb
+: 1754515224:0;git rb --abort
+: 1754515234:0;git reset origin/homologation --h
+: 1754515236:0;git dog
+: 1754515241:0;git cp mototalk-server
+: 1754515271:0;git cp --continue
+: 1754515331:0;git reset origin/homologation --h
+: 1754515345:0;git merge mototalk-server
+: 1754515509:0;git checkout mototalk-server -- projects/trade/
+: 1754516122:0;git status
+: 1754516124:0;git add .
+: 1754516356:0;git status
+: 1754516360:0;git add .
+: 1754516363:0;git commit
+: 1754517046:0;ng serve -c staging trade
+: 1754517064:0;node deploy.js staging
+: 1754517281:0;git push-homolog
+: 1754517890:0;./deploy-trade-module.sh -stg
+: 1754518092:0;aws cloudfront create-invalidation --distribution-id E1XFNR7V3P8DI8 --paths '/*' > /dev/null
+: 1754566767:0;./deploy-trade-module.sh -stg
+: 1754570295:0;git pull
+: 1754570331:0;git dog
+: 1754570355:0;git  rbia
+: 1754570558:0;git rbi
+: 1754570613:0;git rbc
+: 1754570727:0;git status
+: 1754570792:0;git reset HEAD~ --s
+: 1754571736:0;history | grep eslint
+: 1754577122:0;git status
+: 1754577126:0;git add .
+: 1754577130:0;git commit -C HEAD@{1}
+: 1754577135:0;git rbc
+: 1754577233:0;git add .
+: 1754577235:0;git status
+: 1754577239:0;git amend-ne-a
+: 1754577242:0;git status
+: 1754577249:0;git rbc
+: 1754577253:0;git dog
+: 1754577273:0;git rbia
+: 1754577346:0;git reset HEAD~ --s
+: 1754577594:0;git add .
+: 1754577637:0;git status
+: 1754577642:0;git commit -C HEAD@{1}
+: 1754577647:0;git status
+: 1754577650:0;git rbc
+: 1754577652:0;git dog
+: 1754577659:0;git amend
+: 1754578076:0;git rbia 
+: 1754578235:0;git dog
+: 1754578239:0;git rbia
+: 1754584931:0;ng serve -c staging
+: 1754585082:0;ng serve -c staging trade
+: 1754586392:0;./deploy-trade-module.sh -stg
+: 1754588551:0;git status
+: 1754588558:0;git add projects/trade/src/app/trade/perfect-store/perfect-store.module.ts
+: 1754588564:0;git commit 
+: 1754588576:0;git push-homolog
+: 1754594276:0;ng serve -c staging
+: 1754594612:0;git switch rele
+: 1754594614:0;git switch release
+: 1754594634:0;git branch -D temp
+: 1754594640:0;git switch -c temp
+: 1754594647:0;git reset origin/release --h
+: 1754595015:0;git switch mototalk-server
+: 1754595072:0;git switch homologation
+: 1754595416:0;git status
+: 1754595419:0;git dog
+: 1754595424:0;git amend-ne-a
+: 1754595433:0;git push-homolog
+: 1754598765:0;git amend-ne-a
+: 1754598769:0;git push-homolog
+: 1754652493:0;git status
+: 1754652966:0;git merge --abort
+: 1754652971:0;git add .
+: 1754652973:0;git merge --abort
+: 1754652977:0;git pull
+: 1754652987:0;git switch mototalk-server
+: 1754652991:0;git pull
+: 1754653019:0;git switch release
+: 1754653022:0;git dog
+: 1754653028:0;git rb
+: 1754653031:0;git dog
+: 1754653042:0;git switch mototalk-server
+: 1754653044:0;git dog
+: 1754653055:0;git switch release
+: 1754653066:0;git merge mototalk-server --no-commit
+: 1754653101:0;..
+: 1754653142:0;git checkout mototalk-server -- portal-admin-frontend/projects/trade/
+: 1754653197:0;git checkout mototalk-server -- portal-lambdas/portal_no_sale_item_*
+: 1754653204:0;git status
+: 1754653373:0;git dog
+: 1754653388:0;git merge --abort
+: 1754653560:0;git fetch &
+: 1754653630:0;git branch --set-upstream-to=origin/angular-13 angular-13
+: 1754653634:0;git rbia
+: 1754653658:0;git dog
+: 1754653687:0;git status
+: 1754653701:0;git push origin HEAD:refs/for/angular-13
+: 1754653934:0;git rbia
+: 1754654070:0;git push origin HEAD:refs/for/angular-13
+: 1754654355:0;git rbia
+: 1754654430:0;git dog
+: 1754654438:0;git push origin HEAD:refs/for/angular-13
+: 1754656672:0;git switch -c angular-14
+: 1754656685:0;git branch --set-upstream-to=origin/angular-13 angular-14
+: 1754656691:0;git pull
+: 1754657020:0;git fetch &
+: 1754657031:0;ng update @angular/core@13
+: 1754657459:0;ng update @angular/core@14 @angular/cli@14 --force
+: 1754657503:0;npm run preinstall
+: 1754657577:0;ng update @angular/core@14 @angular/cli@14 --force
+: 1754658554:0;git add .
+: 1754658559:0;git status
+: 1754658561:0;git commit
+: 1754658582:0;ng update
+: 1754658629:0;npm run preinstall && ng update
+: 1754658668:0;npm run preinstall && ng update @angular/cdk@14
+: 1754658950:0;git status
+: 1754658952:0;git add .
+: 1754658957:0;git commit
+: 1754658974:0;npm run preinstall && ng update
+: 1754659096:0;ng version
+: 1754659108:0;ng serve -c staging
+: 1754659130:0;which ng 
+: 1754659138:0;node -v
+: 1754659152:0;which ng version
+: 1754659182:0;..
+: 1754659186:0;ng version
+: 1754659211:0;fnm install 18
+: 1754659231:0;cd portal-admin-frontend
+: 1754659240:0;nvim .nvmrc
+: 1754659267:0;fnm use 18
+: 1754659275:0;ng serve -c staging
+: 1754659283:0;..
+: 1754659286:0;cd portal-admin-frontend
+: 1754659289:0;node -v
+: 1754659302:0;npm install -g @angular/cli@14
+: 1754659338:0;ng serve -c staging
+: 1754659351:0;npm ci
+: 1754659374:0;npm run preinstall && ng update
+: 1754659404:0;npm run preinstall && ng update @angular-eslint/schematics@14
+: 1754659413:0;git status
+: 1754659418:0;git add .
+: 1754659427:0;ng version
+: 1754659441:0;git reset HEAD --h
+: 1754659447:0;fnm use 16
+: 1754659465:0;npm install -g @angular/cli@14
+: 1754659619:0;git status
+: 1754659623:0;npm run preinstall && ng update @angular-eslint/schematics@14
+: 1754659996:0;git add .
+: 1754660001:0;git commit
+: 1754660187:0;npm install
+: 1754660215:0;npm run preinstall && ng update
+: 1754660315:0;npm run preinstall && ng update ngx-build-plus@14
+: 1754660561:0;git add .
+: 1754660563:0;git status
+: 1754660565:0;git commit
+: 1754660588:0;git status
+: 1754660659:0;npm run preinstall && ng update @angular-architects/module-federation@14
+: 1754660887:0;git status
+: 1754660892:0;git add .
+: 1754660897:0;git commit 
+: 1754660960:0;git amend-ne-a
+: 1754660968:0;npm install
+: 1754661002:0;git stash
+: 1754661022:0;npm install primeng@14
+: 1754661086:0;fnm use 18
+: 1754661090:0;npm install
+: 1754661159:0;git status
+: 1754661166:0;git add package*
+: 1754661171:0;git commit 
+: 1754661199:0;git add .
+: 1754661201:0;git status
+: 1754661205:0;git commit
+: 1754661218:0;git status
+: 1754661233:0;ng serve -c staging
+: 1754661484:0;ng serve -c staging trade
+: 1755182510:0;git merge --abort
+: 1755182522:0;git switch development
+: 1755182528:0;git reset HEAD --h
+: 1755182530:0;git switch development
+: 1755182626:0;git status
+: 1755182636:0;git switch angular-13
+: 1755182680:0;git switch release
+: 1755182683:0;git rb
+: 1755182693:0;git switch angular-13
+: 1755182699:0;git switch -c temp
+: 1755182704:0;git branch -D temp
+: 1755182705:0;git switch -c temp
+: 1755182716:0;git rbia release
+: 1755182725:0;git switch angular-13
+: 1755182743:0;git checkout temp -- .
+: 1755182746:0;git status
+: 1755182753:0;git dog
+: 1755182768:0;git checkout temp -- ..
+: 1755182771:0;git status
+: 1755182777:0;git switch homologation
+: 1755182797:0;git merge angular-13 --no-commit
+: 1755183209:0;git merge --abort
+: 1755183222:0;git switch release
+: 1755183229:0;..
+: 1755183248:0;git reset origin/release --h
+: 1755183256:0;git switch temp
+: 1755183274:0;git rbia release
+: 1755183280:0;git status
+: 1755183281:0;git dog
+: 1755183288:0;git switch angular-13
+: 1755183294:0;git dog
+: 1755183303:0;git checkout temp -- .
+: 1755183305:0;git status
+: 1755183312:0;git dog
+: 1755183359:0;git switch release
+: 1755183577:0;git switch homologation
+: 1755183584:0;git merge angular-13 --no-commit
+: 1755184052:0;git status
+: 1755184054:0;git add .
+: 1755184062:0;git status
+: 1755184069:0;git commit
+: 1755184090:0;git statys
+: 1755184092:0;git status
+: 1755184101:0;git push-homolog
+: 1755196260:0;npm install
+: 1755196270:0;cd portal-admin-frontend
+: 1755196273:0;npm install
+: 1755282621:0;fnm use 20
+: 1755282628:0;nvim .nvmrc
+: 1755282647:0;npm install
+: 1755282676:0;rm package-lock.json
+: 1755282677:0;npm install
+: 1755282709:0;git dog
+: 1755282717:0;git reset HEAD --h
+: 1755282722:0;npm install
+: 1755282733:0;fnm use 18
+: 1755282736:0;npm install
+: 1755886418:0;fnm use 18
+: 1755886421:0;npm ci
+: 1755886573:0;git rb
+: 1755886610:0;npm install
+: 1755886681:0;ng serve -c staging
+: 1755886939:0;git switch angular-14
+: 1755886943:0;git rb
+: 1755886948:0;git dog
+: 1755886957:0;git status
+: 1755887004:0;npm install
+: 1755887068:0;npm install jest-preset-angular@14
+: 1755887357:0;npm install jest-preset-angular@13
+: 1755887381:0;npm install jest-preset-angular@13 jest@29
+: 1755887643:0;git status
+: 1755887646:0;git rbc
+: 1755887754:0;git status
+: 1755887759:0;npm ci
+: 1755887779:0;npm install
+: 1755887875:0;ng serve -c staging
+: 1755888115:0;git dog
+: 1755888120:0;git amend-ne-a
+: 1755888127:0;git status
+: 1755888156:0;npm run test:ci
+: 1755888492:0;npm install jest-preset-angular@13 jest@29 @types/jest@29
+: 1755888811:0;npm run test:ci
+: 1755888865:0;git stus
+: 1755888869:0;git stats
+: 1755888875:0;git reset HEAD --h
+: 1755888881:0;git switch angular-13
+: 1755888886:0;npm ci
+: 1755889001:0;npm install jest-preset-angular@13 jest@29 @types/jest@29
+: 1755889065:0;git status
+: 1755889068:0;git add .
+: 1755889073:0;git commit
+: 1755889090:0;git switch angular-14
+: 1755889095:0;git rbi
+: 1755889123:0;npm install
+: 1755889189:0;git rbi angular-13
+: 1755889193:0;git rba
+: 1755889195:0;git rbi angular-13
+: 1755889214:0;npm install
+: 1755889229:0;npm install --force
+: 1755889324:0;git status
+: 1755889326:0;git amend-ne-a
+: 1755889329:0;git rbc
+: 1755889332:0;npm install --force
+: 1755889405:0;git amend-ne-a
+: 1755889407:0;git rbc
+: 1755889420:0;npm install --force
+: 1755889443:0;git amend-ne-a
+: 1755889446:0;git rbc
+: 1755889457:0;npm install --force
+: 1755889494:0;git dog
+: 1755889504:0;git rba
+: 1755889523:0;git rbi angular-13
+: 1755889566:0;npm install --force
+: 1755889658:0;git dog
+: 1755889661:0;git status
+: 1755889665:0;git amend-ne-a
+: 1755889668:0;git rbc
+: 1755889683:0;npm install --force
+: 1755889741:0;git status
+: 1755889746:0;git amend-ne-a
+: 1755889751:0;git status
+: 1755889756:0;git rba
+: 1755889763:0;git rbi angular-13
+: 1755889777:0;npm install --force
+: 1755889839:0;git status
+: 1755889842:0;git dog
+: 1755889846:0;git amend-ne-a
+: 1755889849:0;git rbc
+: 1755889866:0;git checkout --ours -- package-lock.json
+: 1755889871:0;git status
+: 1755889874:0;git add .
+: 1755889880:0;npm install --force
+: 1755889887:0;git status
+: 1755889906:0;git checkout --theirs -- package-lock.json
+: 1755889916:0;npm install --force
+: 1755890008:0;git add .
+: 1755890010:0;git status
+: 1755890018:0;git rbc
+: 1755890034:0;git checkout --theirs -- package-lock.json
+: 1755890049:0;git status
+: 1755890051:0;npm install --force
+: 1755890330:0;git status
+: 1755890333:0;git add .
+: 1755890335:0;git rbc
+: 1755890349:0;git checkout --ours -- package-lock.json
+: 1755890368:0;npm install --force
+: 1755890430:0;git status
+: 1755890433:0;git add .
+: 1755890442:0;git status
+: 1755890445:0;git rbc
+: 1755890461:0;npm install --force
+: 1755890482:0;git dog
+: 1755890485:0;git status
+: 1755890502:0;git rbc
+: 1755890506:0;git status
+: 1755890548:0;npm install --force
+: 1755890721:0;git status
+: 1755890724:0;git add .
+: 1755890726:0;git rbc
+: 1755890864:0;npm install
+: 1755890958:0;rm package-lock.json
+: 1755890961:0;npm install
+: 1755890984:0;git status
+: 1755890986:0;git add .
+: 1755891023:0;ng serve -c staging
+: 1755891409:0;git status
+: 1755891417:0;git amend-ne-a
+: 1755891525:0;npm install jest-preset-angular@14
+: 1755892477:0;npm list eslint-config-prettier
+: 1755892493:0;npm list eslint
+: 1755894529:0;ls
+: 1755894536:0;rm -rf .angular 
+: 1756391567:0;npm ci
+: 1756391636:0;node deployV2.js beta
+: 1756410807:0;git status
+: 1756410809:0;git pull
+: 1756411440:0;git status
+: 1756411442:0;git dog
+: 1756411505:0;git pull
+: 1756411513:0;git dog
+: 1756411656:0;git pull
+: 1756411743:0;git switch release
+: 1756411747:0;git rb
+: 1756411750:0;git rba
+: 1756411760:0;git reset origin/release --h
+: 1756411766:0;git merge angular-13 --no-commit
+: 1756411884:0;npm install
+: 1756412051:0;npm run test:ci
+: 1756414811:0;git add .
+: 1756414814:0;git commit
+: 1756414864:0;ng serve -c staging
+: 1756738468:0;git switch release
+: 1756738474:0;git rb
+: 1756738476:0;git dog
+: 1756738481:0;npm ci
+: 1756739550:0;git status
+: 1756739552:0;git stash
+: 1756739679:0;git switch homologation
+: 1756739690:0;git stash pop
+: 1756739701:0;node deploy.js staging
+: 1756740003:0;git dog
+: 1756740006:0;git rbi
+: 1756744907:0;git status
+: 1756745360:0;git pull
+: 1756746126:0;git status
+: 1756746128:0;git dog
+: 1756746245:0;git switch angular-14
+: 1756746282:0;git switch homologation
+: 1756746287:0;git status
+: 1756746356:0;npm ci
+: 1756746881:0;git switch mototalk-server
+: 1756746883:0;git pull
+: 1756747812:0;git rb
+: 1756747819:0;git status
+: 1756749342:0;node deploy.js staging
+: 1756749502:0;git stash 
+: 1756749505:0;git switch mototalk-server
+: 1756749509:0;git stash pop
+: 1756749863:0;git cp --abort
+: 1756749868:0;git switch homologation
+: 1756749873:0;git reset HEAD --h
+: 1756749874:0;git switch homologation
+: 1756749879:0;git stash pop
+: 1756749965:0;git status
+: 1756749967:0;git add .
+: 1756749978:0;git commit
+: 1756749988:0;git push-homolog
+: 1756750004:0;git switch mototalk-server
+: 1756750009:0;git cp homologation
+: 1756750044:0;git cp --continue
+: 1756750051:0;git push-server
+: 1756751385:0;git switch homologation
+: 1756751434:0;git status
+: 1756751437:0;git add .
+: 1756751456:0;git amend-ne-a
+: 1756751460:0;git push-homolog
+: 1756992687:0;git cp --abort
+: 1756992695:0;git switch release
+: 1756992701:0;git status
+: 1756992706:0;git reset HEAD --h
+: 1756992712:0;git switch release
+: 1756992714:0;git pull
+: 1756992860:0;npm ci
+: 1756992872:0;npm audit
+: 1756993330:0;git status
+: 1756993348:0;git switch -c testcontainers
+: 1756993354:0;git add package.json
+: 1756993412:0;echo '24' > .nvmrc 
+: 1756993417:0;fnm use 24
+: 1756993520:0;npm install
+: 1756993525:0;git status
+: 1756993543:0;git add package-lock.json
+: 1756993545:0;git status
+: 1756993549:0;git add .nvmrc
+: 1756993554:0;git commit
+: 1756997785:0;npx lint-staged
+: 1756998267:0;git status
+: 1756998269:0;git add .
+: 1756998272:0;git commit
+: 1756998285:0;git amend-ne-a
+: 1756998298:0;git push-server
+: 1756998505:0;npm install @eslint/json -D
+: 1756998739:0;git add .
+: 1756998740:0;git status
+: 1756998821:0;git restore -SW package* 
+: 1756998823:0;git status
+: 1756998829:0;npm install
+: 1756998847:0;git status
+: 1756998853:0;git add .
+: 1756998856:0;git fh
+: 1756998955:0;git add .
+: 1756998956:0;git status
+: 1756998962:0;git push-server
+: 1757008611:0;git status
+: 1757008680:0;npm init @eslint/config@latest\
+
+: 1757008765:0;git status
+: 1757008767:0;git add .
+: 1757008812:0;npm install prettier
+: 1757008827:0;npm install prettier --save-dev
+: 1757008831:0;git status
+: 1757008833:0;git add .
+: 1757008872:0;npm install --save-dev eslint-plugin-prettier eslint-config-prettier
+: 1757008989:0;git status
+: 1757008991:0;git add .
+: 1757009272:0;git status
+: 1757009274:0;git add .
+: 1757009281:0;git status
+: 1757009298:0;npx prettier --write .
+: 1757009428:0;git status
+: 1757009441:0;git restore -SW services/ tests/
+: 1757009444:0;git status
+: 1757009468:0;git restore -SW services/ tests/
+: 1757009473:0;git status
+: 1757009525:0;git add .
+: 1757009538:0;git status
+: 1757009681:0;npm install --save-dev husky lint-staged
+: 1757009695:0;npx husky init
+: 1757009698:0;git status
+: 1757009702:0;git add .
+: 1757009708:0;ls
+: 1757009712:0;git status
+: 1757009829:0;mv .husky ..
+: 1757009834:0;git status
+: 1757009836:0;git add ..
+: 1757009839:0;git status
+: 1757009879:0;history | grep commit-msg
+: 1757009885:0;history
+: 1757009948:0;ln -s ../.git/hooks/commit-msg ../.husky/commit-msg
+: 1757009964:0;ls
+: 1757009967:0;git status
+: 1757009972:0;git add .
+: 1757009976:0;git status
+: 1757009979:0;git add ..
+: 1757009981:0;git status
+: 1757010040:0;touch .lintstagedrc.json
+: 1757010199:0;git add ..
+: 1757010201:0;git status
+: 1757010207:0;git commit
+: 1757010235:0;git reset HEAD --s
+: 1757010247:0;git reset HEAD~ --s
+: 1757010292:0;git commit -a
+: 1757010387:0;npm install 
+: 1757010392:0;npm audit
+: 1757010403:0;npm -v
+: 1757010420:0;npm install 
+: 1757010529:0;git amend-ne-a
+: 1757010749:0;git status
+: 1757010764:0;git amend
+: 1757010787:0;git push-dev
+: 1757010840:0;git dog
+: 1757010848:0;git rbia
+: 1757010859:0;git rbia origin/development
+: 1757010874:0;git rbia origin/release
+: 1757010891:0;git push-dev
+: 1757011741:0;git add --renormalize .
+: 1757011743:0;git status
+: 1757011877:0;git reset HEAD --h
+: 1757011882:0;git status
+: 1757011898:0;git restore -SW services/ tests/
+: 1757011901:0;git status
+: 1757011920:0;git switch homologation
+: 1757011922:0;git rbia
+: 1757011934:0;git cp testcontainers
+: 1757011969:0;git checkout --ours -- package-lock.json
+: 1757012038:0;nvim package-lock.json
+: 1757012048:0;git add package-lock.json
+: 1757012061:0;npm install
+: 1757012099:0;git status
+: 1757012103:0;git add package-lock.json
+: 1757012124:0;git status
+: 1757012139:0;git add .
+: 1757012141:0;git status
+: 1757012144:0;git commit
+: 1757012278:0;git push-homolog
+: 1757012423:0;git pull
+: 1757012450:0;git switch testcontainers
+: 1757012462:0;git rb origin/release
+: 1757012465:0;git status
+: 1757012468:0;git dog
+: 1757015006:0;mocha
+: 1757015018:0;mocha -v
+: 1757015021:0;mocha --v
+: 1757015024:0;mocha --version
+: 1757015959:0;ls
+: 1757019432:0;npm i @types/mocha --save-dev
+: 1757020390:0;npm install mocha@latest
+: 1757020407:0;npm install
+: 1757023752:0;mocha
+: 1757023933:0;npm install eslint-plugin-mocha
+: 1757023945:0;npm install eslint-plugin-mocha --save-dev
+: 1757024220:0;git status
+: 1757024223:0;git add .
+: 1757024278:0;git commitgit status
+: 1757024282:0;git status
+: 1757024291:0;git commit
+: 1757024479:0;git status
+: 1757024481:0;git commit
+: 1757024650:0;nvim ../.husky/pre-commit
+: 1757024663:0;git commit
+: 1757024679:0;nvim ../.husky/pre-commit
+: 1757024691:0;git commit
+: 1757024882:0;git add ..
+: 1757024888:0;git commit
+: 1757025088:0;..
+: 1757025099:0;npx lint-staged -cwd portal-admin-backend
+: 1757025139:0;npx lint-staged --cwd portal-admin-backend
+: 1757025170:0;git add ..
+: 1757025172:0;git add .
+: 1757025177:0;git commit
+: 1757025185:0;git status
+: 1757025208:0;git add .
+: 1757025211:0;git commit
+: 1757025283:0;git add .
+: 1757025294:0;git commit -n
+: 1757025311:0;git status
+: 1757025500:0;git add portal-admin-backend/eslint.config.mjs
+: 1757025503:0;git amend-ne-a
+: 1757025605:0;npm install --save-dev chai@latest\
+
+: 1757025707:0;git status
+: 1757025727:0;ls
+: 1757025734:0;rm -rf node_modules package*
+: 1757025736:0;cd portal-admin-backend
+: 1757025750:0;npm install --save-dev chai@latest chai-http@latest\
+
+: 1757025789:0;npm install --save-dev sinon@latest\
+
+: 1757025948:0;npm install
+: 1757026748:0;git dog
+: 1757026756:0;git reset HEAD~ --s
+: 1757026795:0;git status
+: 1757026827:0;git retore -SW package* tests/*
+: 1757026831:0;git restore -SW package* tests/*
+: 1757026842:0;npm ci
+: 1757026873:0;npm install eslint-plugin-mocha --save-dev
+: 1757026895:0;npm install mocha@latest
+: 1757026919:0;npm install
+: 1757027094:0;git status
+: 1757027096:0;git add .
+: 1757027286:0;git commit
+: 1757027321:0;git status
+: 1757027327:0;git stash pop
+: 1757027370:0;git dog
+: 1757027376:0;git commit -a
+: 1757027395:0;git status
+: 1757027402:0;git commit -a -n
+: 1757027411:0;git status
+: 1757027416:0;git dog
+: 1757027420:0;git stash pop
+: 1757027439:0;git status
+: 1757027444:0;git commit
+: 1757027468:0;git commit -a
+: 1757027483:0;git commit -a -n
+: 1757030087:0;git status
+: 1757030091:0;git stash pop
+: 1757030121:0;git amend-ne-a
+: 1757030149:0;git amend-ne-a -n
+: 1757030179:0;git status
+: 1757030182:0;git dof
+: 1757030184:0;git dog
+: 1757031812:0;git status
+: 1757031816:0;git add .
+: 1757031819:0;git dog
+: 1757031824:0;git amend
+: 1757031835:0;git status
+: 1757031841:0;git amend -n
+: 1757032561:0;git amend -n -a
+: 1757032620:0;node deployV2.js development
+: 1757033763:0;git status
+: 1757033765:0;git add .
+: 1757033790:0;git fh -a -n
+: 1757034096:0;git add .
+: 1757034101:0;git fh -a -n
+: 1757034227:0;git amend-ne-a -n
+: 1757073117:0;node deployV2.js development
+: 1757073821:0;git switch release
+: 1757073824:0;git rb
+: 1757073830:0;npm install
+: 1757073851:0;node deployV2.js development
+: 1757074421:0;git dog testcontainers
+: 1757074689:0;npm install --save-dev sinon\
+
+: 1757074727:0;npm install
+: 1757074744:0;npm install --save-dev mocha@latest\
+
+: 1757074752:0;npm install eslint-plugin-mocha --save-dev
+: 1757074804:0;git restore -SW .
+: 1757074807:0;git status
+: 1757074843:0;git reset 5de3d431 --h
+: 1757074848:0;npm install
+: 1757074860:0;git dog
+: 1757074877:0;git cp 77a848e1
+: 1757074888:0;npm ci
+: 1757074931:0;git fh -a
+: 1757074971:0;node deployV2.js development
+: 1757075248:0;./tests/testcontainers/database-dump.sh
+: 1757075259:0;chmod +x ./tests/testcontainers/database-dump.sh
+: 1757075261:0;./tests/testcontainers/database-dump.sh
+: 1757075910:0;git status
+: 1757075912:0;git add .
+: 1757075915:0;git status
+: 1757075940:0;git add .
+: 1757075941:0;git status
+: 1757076063:0;npm install testcontainers
+: 1757077742:0;docker container list
+: 1757077814:0;docker container sdtop b804ccb755fb
+: 1757077821:0;docker container stop b804ccb755fb
+: 1757077825:0;docker container list
+: 1757078066:0;clear
+: 1757078068:0;docker container list
+: 1757078119:0;mysqladmin ping -h 127.0.0.1 -u root -ppassword
+: 1757078181:0;docker container list
+: 1757078270:0;cd tests/testcontainers
+: 1757078285:0;docker compose 
+: 1757078310:0;docker compose -f ./docker-compose.test.yml up
+: 1757078343:0;mysqladmin ping -h 127.0.0.1 -u root -ppassword
+: 1757078348:0;mysqladmin ping -h 127.0.0.1 -u root -proot
+: 1757078383:0;ps aux|grep mysql
+: 1757078427:0;sudo mysqld stop
+: 1757078481:0;sudo mysql.server stop
+: 1757078508:0;systemctl service stop mysql
+: 1757078532:0;systemctl stop mysql.service
+: 1757078548:0;mysqladmin ping -h 127.0.0.1 -u root -proot
+: 1757078593:0;docker container list
+: 1757078780:0;cd tests/testcontainers
+: 1757078781:0;ls
+: 1757078790:0;docker compose up
+: 1757078803:0;mysqladmin ping -h 127.0.0.1 -u root -proot
+: 1757078914:0;docker container list
+: 1757079162:0;...
+: 1757079172:0;docker compose up
+: 1757079184:0;mysqladmin ping -h 127.0.0.1 -u root -proot
+: 1757079897:0;mocha --exit testcontainers-test.js
+: 1757079954:0;which docker
+: 1757080017:0;mocha --exit testcontainers-test.js
+: 1757080073:0;git status
+: 1757080076:0;git add .
+: 1757080090:0;docker image list
+: 1757080104:0;docker container list
+: 1757080120:0;docker container list --all
+: 1757080135:0;docker container prune
+: 1757080143:0;mocha --exit testcontainers-test.js
+: 1757080241:0;docker container list --all
+: 1757080243:0;mocha --exit testcontainers-test.js
+: 1757080315:0;docker container list --all
+: 1757080317:0;mocha --exit testcontainers-test.js
+: 1757080639:0;docker container list --all
+: 1757080648:0;docker compose up
+: 1757080722:0;docker container list --all
+: 1757080728:0;docker container prune
+: 1757080735:0;mocha --exit testcontainers-test.js
+: 1757081210:0;..
+: 1757081224:0;mocha --exit tests/testcontainers/testcontainers-test.js
+: 1757081288:0;git status
+: 1757081290:0;git add .
+: 1757081295:0;git status
+: 1757081301:0;git dog
+: 1757081308:0;git commit 
+: 1757081479:0;nvim ../.husky/pre-commit
+: 1757081498:0;git commit 
+: 1757081899:0;git commit -n
+: 1757081915:0;git status
+: 1757082201:0;mocha --exit tests/absence-delete-test.js
+: 1757082376:0;NODE_ENV=test-local mocha --exit ./tests/absence-delete-test.js
+: 1757082810:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/absence-delete-test.js
+: 1757082872:0;mysqladmin ping -h 127.0.0.1 -u root -proot
+: 1757082881:0;cd tests/testcontainers
+: 1757082887:0;docker compose up
+: 1757082936:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/absence-delete-test.js
+: 1757083119:0;docker container prune
+: 1757083138:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/absence-delete-test.js
+: 1757083273:0;git status
+: 1757083278:0;git add .
+: 1757083282:0;git commit
+: 1757083352:0;git add ..
+: 1757083354:0;git status
+: 1757083361:0;git fh
+: 1757083537:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/absence-get-test.js
+: 1757083821:0;git status
+: 1757083823:0;git add .
+: 1757083855:0;git commit
+: 1757091354:0;cd ../.husky
+: 1757091361:0;rm commit-msg
+: 1757091380:0;ln -s ../.git/hooks/commit-msg commit-msg
+: 1757091385:0;cd ../portal-admin-backend
+: 1757091386:0;ls
+: 1757091391:0;git status
+: 1757091395:0;git commit
+: 1757091416:0;git dog
+: 1757091420:0;git log
+: 1757091518:0;nvim ../.husky/commit-msg
+: 1757091606:0;git status
+: 1757091652:0;git log
+: 1757091676:0;npm ci
+: 1757091748:0;cp ../.git/hooks/commit-msg ../.husky
+: 1757091764:0;rm ../.husky/commit-msg
+: 1757091766:0;cp ../.git/hooks/commit-msg ../.husky
+: 1757091772:0;git status
+: 1757091775:0;git add ..
+: 1757091777:0;git commit
+: 1757091853:0;nvim ../.husky/commit-msg
+: 1757091879:0;git add .
+: 1757091887:0;git add ..
+: 1757091889:0;git commit
+: 1757091900:0;git dog
+: 1757091904:0;git log
+: 1757092035:0;git amend-ne-a
+: 1757092221:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/absence-update-test.js
+: 1757092502:0;git commit
+: 1757092508:0;git commit -a
+: 1757092720:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/app-version-test.js
+: 1757092759:0;git commit -a
+: 1757092857:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/auth-service-test.js
+: 1757093092:0;git commit -a
+: 1757093235:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/campaign-create-test.js
+: 1757093276:0;git commit -a
+: 1757094105:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/campaign-delete-test.js
+: 1757094358:0;git status
+: 1757094367:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-create-test.js
+: 1757094678:0;git commit
+: 1757094684:0;git commit -a
+: 1757094826:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-delete-occupation-test.js
+: 1757094887:0;git commit -a
+: 1757095119:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-delete-test.js
+: 1757095446:0;git commit -a
+: 1757095561:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-get-test.js
+: 1757095717:0;git commit -a
+: 1757095748:0;git rbia
+: 1757095793:0;git status
+: 1757095800:0;git add .
+: 1757095809:0;git rbc
+: 1757095816:0;git status
+: 1757095832:0;git rebase --continue
+: 1757095853:0;git restore -SW .
+: 1757095855:0;git status
+: 1757095862:0;git add --renormalize buildspec_ecs_production.yml
+: 1757095864:0;git status
+: 1757095868:0;git rebase --continue
+: 1757095877:0;git dog
+: 1757095885:0;git commit
+: 1757095919:0;git rebase --continue
+: 1757095923:0;git status
+: 1757095933:0;git rebase --abort
+: 1757095939:0;git status
+: 1757095957:0;git rbia
+: 1757095975:0;git status
+: 1757095986:0;git add .
+: 1757095992:0;git rbc
+: 1757095995:0;git status
+: 1757095998:0;git commit
+: 1757096017:0;git status
+: 1757096019:0;git commit -n
+: 1757096028:0;git status
+: 1757096031:0;git rbc
+: 1757096064:0;git status
+: 1757096066:0;git dog
+: 1757096820:0;git status
+: 1757096835:0;git rbc
+: 1757096840:0;git status
+: 1757096842:0;git dog
+: 1757096848:0;git rbia
+: 1757096861:0;git amend-ne-a
+: 1757096916:0;git add .
+: 1757096919:0;git amend
+: 1757097081:0;git status
+: 1757097090:0;git commit -a
+: 1757097205:0;...
+: 1757097219:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-occupation-create-test.js
+: 1757097364:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-occupation-test.js
+: 1757097438:0;git commit -a
+: 1757097529:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-occupation-update-test.js
+: 1757097589:0;git commit -a
+: 1757097699:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-update-test.js
+: 1757097760:0;git commit -a
+: 1757097881:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/company-create-test.js
+: 1757098063:0;git status
+: 1757098065:0;git commit -a
+: 1757098172:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-distributor-create-test.js
+: 1757098232:0;git commit -a
+: 1757098348:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-distributor-get-
+: 1757098352:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-distributor-get-by-id-test.js
+: 1757098451:0;git commit -a
+: 1757098537:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-distributor-get-test.js
+: 1757098592:0;git commit -a
+: 1757098622:0;git amend-ne-a -n
+: 1757098699:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-distributor-update-active-by-id-test.js
+: 1757098796:0;git commit -a
+: 1757098920:0;git status
+: 1757098930:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-distributor-update-by-id-test.js
+: 1757099009:0;git commit -a
+: 1757099038:0;git dog
+: 1757099122:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-get-by-id-test.js
+: 1757099195:0;git commit -a
+: 1757099279:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-get-test.js
+: 1757099452:0;git commit -a
+: 1757099541:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-update-
+: 1757099545:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-update-active-by-id-test.js
+: 1757099614:0;git commit -a
+: 1757099811:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/customer-update-by-id-test.js
+: 1757099871:0;git status
+: 1757099961:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/employee-admin-create-test.js
+: 1757100028:0;git status
+: 1757100033:0;git commit -a
+: 1757100163:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/employee-create-test.js
+: 1757100665:0;cd tests/testcontainers
+: 1757100671:0;docker compose up
+: 1757100706:0;redis-server stop
+: 1757100720:0;systemctl stop redis-server.service
+: 1757100728:0;docker compose up
+: 1757100752:0;redis-cli pint
+: 1757100755:0;redis-cli ping
+: 1757100773:0;mysqladmin ping -h 127.0.0.1 -u root -proot
+: 1757100784:0;docker container list --all
+: 1757100797:0;mysqladmin ping -h 127.0.0.1 -u root -proot
+: 1757100800:0;redis-cli ping
+: 1757100808:0;docker compose down
+: 1757100823:0;docker container prune
+: 1757100833:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/employee-create-test.js
+: 1757100837:0;...
+: 1757100838:0;NODE_CONFIG_ENV=test-local mocha --exit ./tests/employee-create-test.js
+: 1757101083:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-create-test.js
+: 1757101551:0;git commit -a
+: 1757101702:0;git dog
+: 1757101724:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-delete-notification-test.js
+: 1757101786:0;git status
+: 1757101789:0;git commit -a
+: 1757101828:0;git reset origin/release --s
+: 1757101958:0;clear
+: 1757101964:0;git commit -a
+: 1757102094:0;git status
+: 1757102099:0;git amend-ne-a -n
+: 1757102421:0;clear
+: 1757103002:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-dismiss-notifications-test.js
+: 1757103098:0;git amend -a 
+: 1757104092:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-get-test.js
+: 1757105140:0;git commit -a
+: 1757105150:0;git dog
+: 1757328814:0;clear
+: 1757328818:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-get-test.js
+: 1757331876:0;git status
+: 1757331965:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-import-test.js
+: 1757332052:0;git commit -a
+: 1757332062:0;git dog
+: 1757332191:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-information-restricted-update-test.js
+: 1757332308:0;git commit -a
+: 1757332424:0;git status
+: 1757332430:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-information-update-test.js
+: 1757332573:0;git commit -a
+: 1757332677:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-no-sale-item-filters-test.js
+: 1757333040:0;git commit -a
+: 1757333183:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-permissions-update-test.js
+: 1757333270:0;git commit -a
+: 1757333362:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employee-reactivate-test.js
+: 1757333443:0;git status
+: 1757333447:0;git commit -a
+: 1757333531:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employees-deactivate-test.js
+: 1757333671:0;git commit -a
+: 1757333853:0;NODE_CONFIG_ENV=test mocha --exit ./tests/fixed-itinerary-get-current-from-employee-test.js
+: 1757334541:0;git amend-ne-a
+: 1757337269:0;NODE_CONFIG_ENV=test mocha --exit ./tests/employees-deactivate-test.js
+: 1757338053:0;git dog
+: 1757338058:0;git rbia
+: 1757338073:0;git amend
+: 1757338110:0;git push-server
+: 1757338118:0;git push-dev
+: 1757338133:0;git pull
+: 1757338153:0;bg
+: 1757338160:0;git switch development
+: 1757338174:0;git reset origin/development --h
+: 1757338176:0;git status
+: 1757338194:0;git cp release
+: 1757338227:0;git status
+: 1757338241:0;git restore -SW .
+: 1757338243:0;git status
+: 1757338246:0;git cp release
+: 1757338249:0;git status
+: 1757338253:0;git push-dev
+: 1757338404:0;git status
+: 1757338413:0;git reset HEAD~ --s
+: 1757338556:0;git status
+: 1757338558:0;git add .
+: 1757338566:0;git commit -C HEAD@{1}
+: 1757338574:0;git log
+: 1757339019:0;NODE_CONFIG_ENV=test mocha --exit ./tests/get-campaign-test.js
+: 1757339087:0;git amend-ne-a
+: 1757339135:0;NODE_CONFIG_ENV=test mocha --exit ./tests/getJustificationReasons-test.js
+: 1757339939:0;npm install testcontainers --save-dev
+: 1757339992:0;npm install sinon@7
+: 1757340089:0;NODE_CONFIG_ENV=test mocha --exit ./tests/getJustificationReasons-test.js
+: 1757340117:0;git amend-ne-a
+: 1757340185:0;NODE_CONFIG_ENV=test mocha --exit ./tests/itinerary-create-test.js
+: 1757340551:0;git amend-ne-a
+: 1757340651:0;NODE_CONFIG_ENV=test mocha --exit ./tests/itinerary-optimize-test.js
+: 1757340730:0;git status
+: 1757340733:0;NODE_CONFIG_ENV=test mocha --exit ./tests/itinerary-optimize-test.js
+: 1757340774:0;git amend-ne-a
+: 1757341186:0;git status
+: 1757341191:0;git amend-ne-a
+: 1757341623:0;NODE_CONFIG_ENV=test mocha --exit ./tests/location-history-get-test.js
+: 1757341727:0;git amend-ne-a
+: 1757341799:0;NODE_CONFIG_ENV=test mocha --exit ./tests/location-history-update-test.js
+: 1757342048:0;NODE_CONFIG_ENV=test mocha --exit ./tests/permission-recovery-delete-test.js
+: 1757342392:0;git status
+: 1757342394:0;git amend-ne-a
+: 1757342522:0;NODE_CONFIG_ENV=test mocha --exit ./tests/permission-recovery-post-test.js
+: 1757342765:0;git status
+: 1757342770:0;git amend-ne-a
+: 1757343036:0;NODE_CONFIG_ENV=test mocha --exit ./tests/plan-access-get-by-alias.js
+: 1757343090:0;git amend-ne-a
+: 1757343293:0;NODE_CONFIG_ENV=test mocha --exit ./tests/plan-access-get-test.js
+: 1757344373:0;npm install config@latest
+: 1757344409:0;npm audit fix
+: 1757344431:0;git status
+: 1757344446:0;git restore -SW package*
+: 1757344450:0;git swtatus
+: 1757344452:0;git status
+: 1757344456:0;git stash
+: 1757344460:0;git switch release
+: 1757344472:0;git reset origin/release --s
+: 1757344475:0;git reset origin/release --h
+: 1757344480:0;git cp development
+: 1757344484:0;git status
+: 1757344529:0;git cp development
+: 1757344533:0;git stash pop
+: 1757344546:0;npm install config@latest
+: 1757344555:0;npm audit fix
+: 1757344625:0;npm audit
+: 1757351530:0;npm install
+: 1757353495:0;NODE_ENV=test mocha --exit ./tests/plan-access-get-test.js
+: 1757355049:0;clear
+: 1757355055:0;git status
+: 1757355065:0;git amend-ne-a
+: 1757355155:0;NODE_ENV=test mocha --exit ./tests/plan-access-of-customer-get-test.js
+: 1757355230:0;git amend-ne-a
+: 1757355289:0;NODE_ENV=test mocha --exit ./tests/profile-add-employee-test.js
+: 1757355386:0;git amend-ne-a
+: 1757355456:0;NODE_ENV=test mocha --exit ./tests/profile-create-test.js
+: 1757355521:0;git amend-ne-a
+: 1757355633:0;NODE_ENV=test mocha --exit ./tests/profile-delete-test.js
+: 1757355679:0;git amend-ne-a
+: 1757355733:0;NODE_ENV=test mocha --exit ./tests/profile-get-no-sale-item-teams-test.js
+: 1757355806:0;git amend-ne-a
+: 1757355860:0;NODE_ENV=test mocha --exit ./tests/profile-get-test.js
+: 1757355909:0;git amend-ne-a
+: 1757355977:0;NODE_ENV=test mocha --exit ./tests/profile-get-with-employees-test.js
+: 1757356130:0;NODE_ENV=test mocha --exit ./tests/profile-permission-request-test.js
+: 1757356184:0;git amend-ne-a
+: 1757356234:0;NODE_ENV=test mocha --exit ./tests/profile-remove-employee-test.js
+: 1757356278:0;git amend-ne-a
+: 1757356337:0;NODE_ENV=test mocha --exit ./tests/profile-update-feature-test.js
+: 1757356386:0;git amend-ne-a
+: 1757356444:0;NODE_ENV=test mocha --exit ./tests/profile-update-name-test.js
+: 1757356497:0;git amend-ne-a
+: 1757356640:0;NODE_ENV=test mocha --exit ./tests/recovery-test.js
+: 1757356698:0;git amend-ne-a
+: 1757356757:0;NODE_ENV=test mocha --exit ./tests/report-create-test.js
+: 1757356896:0;NODE_ENV=test mocha --exit ./tests/report-delete-test.js
+: 1757356978:0;git amend-ne-a
+: 1757357035:0;NODE_ENV=test mocha --exit ./tests/report-get-signed-url.js
+: 1757357112:0;git amend-ne-a
+: 1757357275:0;NODE_ENV=test mocha --exit ./tests/report-get-test.js
+: 1757357321:0;git amend-ne-a
+: 1757357397:0;NODE_ENV=test mocha --exit ./tests/security-test.js
+: 1757357476:0;git amend-ne-a
+: 1757357530:0;NODE_ENV=test mocha --exit ./tests/send-app-command-message-test.js
+: 1757357591:0;git amend-ne-a
+: 1757357658:0;NODE_ENV=test mocha --exit ./tests/subscription-company-get-test.js
+: 1757357707:0;git amend-ne-a
+: 1757357792:0;NODE_ENV=test mocha --exit ./tests/subscription-create-test.js
+: 1757358033:0;git amend-ne-a
+: 1757358146:0;NODE_ENV=test mocha --exit ./tests/subscription-get-by-external-id.js
+: 1757358202:0;git amend-ne-a
+: 1757358267:0;NODE_ENV=test mocha --exit ./tests/subscription-get-by-id-test.js
+: 1757358356:0;NODE_ENV=test mocha --exit ./tests/subscription-get-test.js
+: 1757358513:0;git amend-ne-a
+: 1757358696:0;NODE_ENV=test mocha --exit ./tests/subscription-terminate-pre-paid-test.js
+: 1757359702:0;git amend-ne-a
+: 1757359737:0;NODE_ENV=test mocha --exit ./tests/subscription-terminate-pre-paid-test.js
+: 1757359935:0;git amend-ne-a
+: 1757360216:0;NODE_ENV=test mocha --exit ./tests/subscription-terminate-test.js
+: 1757360271:0;git amend-ne-a
+: 1757360344:0;NODE_ENV=test mocha --exit ./tests/subscription-transfer-permissions-test.js
+: 1757360416:0;git amend-ne-a
+: 1757360494:0;NODE_ENV=test mocha --exit ./tests/subscription-update-test.js
+: 1757360706:0;git amend-ne-a
+: 1757360926:0;NODE_ENV=test mocha --exit ./tests/support-test.js
+: 1757361091:0;git amend-ne-a
+: 1757361170:0;NODE_ENV=test mocha --exit ./tests/task-create-test.js
+: 1757361719:0;git amend-ne-a
+: 1757361778:0;NODE_ENV=test mocha --exit ./tests/task-get-justification-reasons-test.js
+: 1757361828:0;git amend-ne-a
+: 1757361913:0;NODE_ENV=test mocha --exit ./tests/task-get-test.js
+: 1757362007:0;git amend-ne-a
+: 1757362072:0;NODE_ENV=test mocha --exit ./tests/task-remove-test.js
+: 1757362110:0;npm audit
+: 1757362283:0;git amend-ne-a
+: 1757362350:0;NODE_ENV=test mocha --exit ./tests/task-update-test.js
+: 1757362425:0;git amend-ne-a
+: 1757362545:0;NODE_ENV=test mocha --exit ./tests/time-record-create-test.js
+: 1757362617:0;git amend-ne-a
+: 1757362710:0;NODE_ENV=test mocha --exit ./tests/time-record-get-test.js
+: 1757362758:0;git amend-ne-a
+: 1757362828:0;NODE_ENV=test mocha --exit ./tests/user-test.js
+: 1757362878:0;git amend-ne-a
+: 1757362957:0;NODE_ENV=test mocha --exit ./tests/workday-create-test.js
+: 1757363071:0;git amend-ne-a
+: 1757363167:0;NODE_ENV=test mocha --exit ./tests/workday-get-test.js
+: 1757363263:0;NODE_ENV=test mocha --exit ./tests/workday-remove-test.js
+: 1757363433:0;NODE_ENV=test mocha --exit ./tests/workday-update-test.js
+: 1757363602:0;git amend-ne-a
+: 1757363839:0;NODE_ENV=test mocha --exit ./tests/fixed-itinerary-get-current-from-employee-test.js
+: 1757364411:0;git dog
+: 1757364456:0;git push origin HEAD:refs/for/changes/3394494
+: 1757365557:0;git status
+: 1757365560:0;git amend-ne-a
+: 1757365570:0;git switch development
+: 1757365574:0;git dog
+: 1757365589:0;git checkout release -- ../
+: 1757365591:0;git status
+: 1757365603:0;git commit fh
+: 1757365609:0;git add .
+: 1757365613:0;git add ..
+: 1757365615:0;git fh
+: 1757365646:0;git reset origin/development --s
+: 1757365843:0;NODE_ENV=test mocha --exit --require ./tests/testcontainers/fixtures.js ./tests/workday-update-test.js
+: 1757365886:0;git checkout release -- tests/workday-update-test.js
+: 1757365912:0;NODE_ENV=test mocha --exit --require ./tests/testcontainers/fixtures.js ./tests/workday-update-test.js
+: 1757365926:0;git checkout release -- tests/workday-update-test.js
+: 1757365945:0;NODE_ENV=test mocha --exit ./tests/workday-update-test.js
+: 1757366030:0;NODE_ENV=test mocha --exit ./tests/workday-update-test.js --require ./tests/testcontainers/fixtures.js
+: 1757366340:0;git status
+: 1757366345:0;git add ..
+: 1757366359:0;git status
+: 1757366363:0;git commit
+: 1757366787:0;git dog
+: 1757366791:0;git amend-ne-a
+: 1757367015:0;git status
+: 1757367020:0;git add .
+: 1757367022:0;git amend-ne-a
+: 1757367338:0;git status
+: 1757367341:0;git amend-ne-a
+: 1757367347:0;git push-dev
+: 1757367482:0;git amend-ne-a
+: 1757367490:0;node deployV2.js development
+: 1757368005:0;NODE_ENV=test mocha
+: 1757368165:0;node deployV2.js development
+: 1757368629:0;which mocha
+: 1757368648:0;npm install mocha@latest
+: 1757368658:0;which mocha
+: 1757368662:0;NODE_ENV=test mocha
+: 1757368716:0;NODE_ENV=test mocha .
+: 1757368789:0;node deployV2.js development
+: 1757368843:0;mocha --version
+: 1757369377:0;node deployV2.js development
+: 1757369720:0;git amend-ne-a
+: 1757369724:0;git push-dev
+: 1757370465:0;git amend-ne-a
+: 1757370471:0;git push-dev
+: 1757370530:0;git amend-ne-a
+: 1757370533:0;git push-dev
+: 1757370965:0;git amend-ne-a
+: 1757370970:0;git push-dev
+: 1757370988:0;node deployV2.js development
+: 1757421325:0;history | grep system
+: 1757421624:0;git amend-ne-a
+: 1757421629:0;git push-dev
+: 1757422555:0;git status
+: 1757422592:0;git dog
+: 1757422611:0;git reset origin/development --s
+: 1757422614:0;git fetch &
+: 1757422628:0;git status
+: 1757422647:0;git restore -SW tests/location-history-get-test.js
+: 1757422651:0;git status
+: 1757422659:0;git add .
+: 1757422661:0;git status
+: 1757422671:0;git add .gitattributes
+: 1757422673:0;git status
+: 1757422681:0;git commit -C HEAD@{1}
+: 1757422686:0;git push-dev
+: 1757423017:0;git switch homologation
+: 1757423020:0;git rb
+: 1757423033:0;git status
+: 1757423037:0;git add .
+: 1757423050:0;git cp development
+: 1757423075:0;git restore -SW .
+: 1757423077:0;git cp development
+: 1757423107:0;git status
+: 1757423251:0;npm install
+: 1757423479:0;git status
+: 1757423482:0;git add .
+: 1757423484:0;git status
+: 1757423513:0;node deployV2.js staging
+: 1757423727:0;git cp --continue
+: 1757423735:0;git switch release
+: 1757423742:0;git reset origin/release --h
+: 1757423749:0;git cp development
+: 1757423765:0;git status
+: 1757423769:0;git cp development
+: 1757424293:0;git dog
+: 1757424300:0;git rb --continue
+: 1757424317:0;git rb --abort
+: 1757424320:0;clear
+: 1757424340:0;..
+: 1757424343:0;cd .git
+: 1757424344:0;ls
+: 1757424355:0;cd rebase-merge
+: 1757424356:0;ls
+: 1757424359:0;..
+: 1757424368:0;rm -rf rebase-merge
+: 1757424374:0;..
+: 1757424375:0;cd portal-admin-backend
+: 1757424376:0;ls
+: 1757424383:0;git dog
+: 1757424388:0;git switch release
+: 1757424398:0;git switch homologation
+: 1757424400:0;git dog
+: 1757424413:0;git reset origin/homologation --h
+: 1757424417:0;git switch development
+: 1757424436:0;git status
+: 1757424452:0;git switch development
+: 1757424457:0;git status
+: 1757424462:0;git dog
+: 1757424471:0;git rb
+: 1757424480:0;git status
+: 1757424501:0;git rbc
+: 1757424503:0;git dog
+: 1757424750:0;git reset HEAD~ --s
+: 1757424899:0;NODE_ENV=test mocha ./tests/testcontainers/testcontainers-test.js
+: 1757425089:0;./tests/testcontainers/database-dump.sh
+: 1757425093:0;ls
+: 1757425107:0;./tests/testcontainers/dump-database.sh
+: 1757425496:0;git status
+: 1757425507:0;git add README.md tests/testcontainers/
+: 1757425514:0;git commit -C HEAD@{1}
+: 1757425548:0;git push-dev
+: 1757426542:0;git rb
+: 1757426545:0;git pull
+: 1757426592:0;git status
+: 1757426605:0;git add .
+: 1757426611:0;git rbc
+: 1757426617:0;git rb --continue
+: 1757426626:0;git status
+: 1757426642:0;git rebase --continue
+: 1757426654:0;git dog
+: 1757426661:0;git status
+: 1757426663:0;git add .
+: 1757426666:0;git status
+: 1757426673:0;git rb --continue
+: 1757426675:0;git dog
+: 1757426722:0;node deployV2.js development
+: 1757429831:0;NODE_ENV=test mocha 
+: 1757596915:0;node deploy.js staging
+: 1757596926:0;npm ci
+: 1757597084:0;npm install
+: 1757602258:0;git pull
+: 1757602303:0;git switch development
+: 1757602306:0;git rb
+: 1757602309:0;git dog
+: 1757602331:0;git fetch ssh://empoiate@gerrit.mot.com:29418/iDEN_2.0/server/ContentServer refs/changes/72/3551072/1 && git cherry-pick FETCH_HEAD
+: 1757602354:0;node -v
+: 1757602356:0;npm install
+: 1757602414:0;npm run test
+: 1757602501:0;docker run redis 
+: 1757602513:0;npm run test
+: 1757602581:0;node deploy.js staging
+: 1757603274:0;git amend-ne-a
+: 1757603278:0;git push-dev
+: 1757603301:0;git reset HEAD~ --s
+: 1757603304:0;git stash
+: 1757603307:0;git pull
+: 1757603337:0;git dog
+: 1757603342:0;git cp 2b47f7123c1049c9ee0ec639eb587f1f35298305
+: 1757603345:0;git stash pop
+: 1757603355:0;git commit
+: 1757603358:0;git add .
+: 1757603361:0;git commit
+: 1757603381:0;git push-dev
+: 1757603389:0;git pull
+: 1757603403:0;git push-dev
+: 1757687233:0;git switch mototalk-server
+: 1757687236:0;git status
+: 1757687239:0;git pull
+: 1757687494:0;git status
+: 1757687496:0;git pull
+: 1757687551:0;git dog
+: 1757687559:0;git switch homologation
+: 1757687567:0;git rb
+: 1757687572:0;git status
+: 1757687582:0;git dog
+: 1757687620:0;git reset origin/homologation --h
+: 1757687622:0;git status
+: 1757687640:0;git cp origin/development
+: 1757687801:0;git status
+: 1757687844:0;git cp --continue
+: 1757687866:0;git push-homolog
+: 1757687900:0;git amend-ne-a
+: 1757687905:0;git amend
+: 1757687935:0;git dog
+: 1757687941:0;git push-homolog
+: 1757687952:0;git status
+: 1757687959:0;git rb --continue
+: 1757687963:0;git rb --abort
+: 1757687979:0;rm -rf ../.git/rebase-merge
+: 1757687982:0;git status
+: 1757702189:0;git switch homologation
+: 1757702198:0;git status
+: 1757702200:0;git dog
+: 1757702205:0;git rb
+: 1757702216:0;git rb origin/homologation
+: 1758120073:0;npm install
+: 1758120092:0;sam build && sam local invoke\
+
+: 1758121196:0;npm install eslint prettier
+: 1758121231:0;npm install eslint-config-prettier eslint-plugin-prettier
+: 1758121254:0;npm install eslint-config-prettier eslint-plugin-prettier eslint prettier -D
+: 1758121280:0;npm install
+: 1758121329:0;npm init @eslint/config@latest
+: 1758128586:0;sam build && sam local invoke\
+
+: 1758130326:0;git status
+: 1758130329:0;git add .
+: 1758130336:0;git commit
+: 1758131142:0;sam build && sam local invoke\
+
+: 1758133194:0;sam deploy
+: 1758133849:0;gemini
+: 1758133909:0;sam build && sam local invoke\
+
+: 1758133995:0;git dog
+: 1758134005:0;git reset HEAD~ --s
+: 1758134007:0;git status
+: 1758134013:0;git stash
+: 1758134023:0;npm ci
+: 1758134075:0;npm init @eslint/config@latest
+: 1758134647:0;git status
+: 1758134648:0;git add .
+: 1758134657:0;npm init @eslint/config@latest
+: 1758134726:0;npm install eslint-config-prettier eslint-plugin-prettier prettier -D
+: 1758134779:0;git add .
+: 1758134852:0;git status
+: 1758134855:0;git add .
+: 1758134858:0;git commit
+: 1758134875:0;git status
+: 1758134882:0;sam build && sam local invoke\
+
+: 1758134934:0;docker container list --all
+: 1758134968:0;git checkout HEAD~
+: 1758134972:0;git dog
+: 1758134978:0;sam build && sam local invoke\
+
+: 1758135522:0;git status
+: 1758135525:0;git stash
+: 1758135535:0;git switch homologation
+: 1758135537:0;git status
+: 1758135541:0;git dog
+: 1758135544:0;git reset HEAD~ --s
+: 1758135549:0;git reset HEAD --h
+: 1758135570:0;npm init @eslint/config@latest
+: 1758135600:0;npm install eslint-config-prettier eslint-plugin-prettier prettier -D
+: 1758135748:0;git add .
+: 1758135750:0;git status
+: 1758135752:0;git commit
+: 1758135760:0;git stash pop
+: 1758135763:0;git status
+: 1758135766:0;git add .
+: 1758135796:0;git status
+: 1758135800:0;git add .
+: 1758135802:0;git commit
+: 1758135813:0;sam build && sam local invoke\
+
+: 1758136106:0;git dog
+: 1758136110:0;git amend
+: 1758136266:0;git status
+: 1758136272:0;git amend-ne-a
+: 1758136513:0;sam build && sam local invoke\
+
+: 1758136607:0;git add .
+: 1758136612:0;git commit
+: 1758136702:0;sam build && sam local invoke\
+
+: 1758137162:0;git commm
+: 1758137165:0;git commit
+: 1758137168:0;git commit -a 
+: 1758137178:0;git dog
+: 1758137309:0;sam build && sam local invoke\
+
+: 1758137847:0;git add util/categorize-findings.js
+: 1758137850:0;git commit
+: 1758137867:0;sam build && sam local invoke\
+
+: 1758139022:0;git status
+: 1758139024:0;git add util/
+: 1758139028:0;	git commit
+: 1758139267:0;git status
+: 1758139274:0;git add template.yaml util/send-chat-message.js
+: 1758139902:0;sam build && sam local invoke\
+
+: 1758141267:0;git status
+: 1758141275:0;git add util/
+: 1758141284:0;git status
+: 1758141287:0;git dog
+: 1758141294:0;git commit
+: 1758141749:0;sam build && sam local invoke\
+
+: 1758142156:0;git add .
+: 1758142163:0;git amend-ne-a
+: 1758142243:0;sam deploy
+: 1758142357:0;git rbia
+: 1758142367:0;git push-homolog
+: 1758197219:0;sam build \
+
+: 1758197812:0;sam deploy
+: 1758198344:0;sam build \
+
+: 1758198580:0;sam deploy
+: 1758199014:0;sam build \
+
+: 1758199075:0;sam deploy
+: 1758202736:0;git amend-ne-a
+: 1758202941:0;node 
+: 1758206857:0;sam build \
+
+: 1758206929:0;sam deploy --help\
+
+: 1758206955:0;sam deploy\
+
+: 1758207165:0;git amend-ne-a
+: 1758207168:0;git push-homolog
+: 1758825197:0;git pull
+: 1758825279:0;git rb
+: 1758827017:0;git switch master
+: 1758827019:0;git pull
+: 1758827109:0;git dog
+: 1758827358:0;git switch master
+: 1758827363:0;git pull
+: 1759253972:0;git pull 
+: 1759254010:0;npm install
+: 1759254226:0;docker container list --all
+: 1759254252:0;docker container kill 5b8b4a0a2460
+: 1759254256:0;docker container list --all
+: 1759254262:0;docker container prune
+: 1759254274:0;docker container list --all
+: 1759264978:0;npm run test:local tests/employee-get-test.js
+: 1759265585:0;git status
+: 1759265671:0;npm run test:local
+: 1759266457:0;git stash op
+: 1759266460:0;git stash pop
+: 1759266530:0;npm run test:local
+: 1759267172:0;npm run test:local tests/permission-recovery-delete-test.js
+: 1759324396:0;git status
+: 1759324632:0;npm install
+: 1759324707:0;git status
+: 1759324740:0;git commit
+: 1759325138:0;git status
+: 1759325145:0;git add .
+: 1759325247:0;nvim ../.husky/commit-msg
+: 1759325276:0;git status
+: 1759325283:0;git commit
+: 1759325368:0;git push-release
+: 1759770712:0;git status
+: 1759928782:0;git pull
+: 1759929613:0;git switch angular-14-migration
+: 1759929619:0;npm ci
+: 1759929701:0;npm install
+: 1759930761:0;git status
+: 1759930772:0;fnm use 18
+: 1759932357:0;git log --grep Ib1c539398d763492e2cc4ef7cdae2c13ff8ad119
+: 1760012162:0;clear
+: 1760012165:0;git dog
+: 1760012190:0;git push origin HEAD:refs/for/angular-14
+: 1760012254:0;git pull
+: 1760012636:0;git push origin HEAD:refs/for/angular-14
+: 1760014190:0;git status
+: 1760014194:0;git add .
+: 1760014198:0;git dog
+: 1760014208:0;git commit
+: 1760016336:0;git status
+: 1760016340:0;git add .
+: 1760016343:0;git commit
+: 1760016390:0;git status
+: 1760016395:0;git push origin HEAD:refs/for/angular-14
+: 1760016402:0;git pull
+: 1762805333:0;git status
+: 1762805689:0;git dog
+: 1762805727:0;git rba
+: 1762805749:0;git dog angular-14-migration origin/angular-14-migration
+: 1762805784:0;npm install
+: 1762805793:0;fnm use 18
+: 1762805795:0;npm install
+: 1762809060:0;git status
+: 1762809063:0;git add .
+: 1762809069:0;git status
+: 1762809072:0;git commit 
+: 1763574381:0;git status
+: 1763574476:0;git add .
+: 1763574478:0;git cp --continue
+: 1763574523:0;git push origin HEAD:refs/for/angular-14
+: 1763574939:0;git pull
+: 1763575433:0;git switch release
+: 1763575449:0;git merge angular-14 --no-commit
+: 1763576002:0;npm ci
+: 1763576139:0;ng serve -c staging
+: 1763576442:0;git status
+: 1763576444:0;git commit
+: 1763578562:0;git switch angular-14
+: 1763578584:0;git checkout release -- .
+: 1763578586:0;git status
+: 1763578602:0;git commit
+: 1763579660:0;git dog
+: 1763579723:0;git amend
+: 1763579756:0;git switch release
+: 1763579763:0;git reset origin/release --h
+: 1763579842:0;git merge angular-14 --no-commit
+: 1763580173:0;git merge --abort
+: 1763580182:0;git switch angular-14
+: 1763582082:0;git switch homologation
+: 1763582088:0;git merge angular-14 --no-commit
+: 1763736824:0;git switch release
+: 1763736846:0;npm install
+: 1763737010:0;npm ci
+: 1763737020:0;npm install
+: 1763737065:0;npm ci
+: 1763737558:0;npm audit
+: 1763748019:0;git status
+: 1763748030:0;git add projects/trade/
+: 1763748034:0;git add package*
+: 1763748037:0;git status
+: 1763748088:0;git commit
+: 1763748151:0;git push-release
+: 1763996689:0;git status
+: 1763996691:0;git add projects/
+: 1763996700:0;git amend-ne-a
+: 1763996703:0;git status
+: 1763996708:0;git amend-ne
+: 1763996787:0;git push-release
+: 1764357658:0;clear
+: 1764357660:0;npm audit
+: 1764598166:0;npm insta
+: 1764598215:0;npm audit
+: 1764598271:0;npm audit fix
+: 1764598336:0;npm install
+: 1764598349:0;npm audit fix
+: 1764806947:0;git status
+: 1764806971:0;git reset HEAD --h
+: 1764806974:0;git status
+: 1764806981:0;rm .nx -rf
+: 1764806985:0;git status
+: 1764806989:0;npm ci
+: 1764841259:0;npx nx@latest init --integrated
+: 1764850525:0;git reset HEAD --h
+: 1764850552:0;git status
+: 1764850556:0;rm -rf .nx
+: 1764850566:0;npm ci
+: 1764850782:0;npx nx@latest init --integrated
+: 1764851466:0;npm ci
+: 1764851754:0;git add angular.json
+: 1764851756:0;git commit
+: 1764851819:0;git commit -n
+: 1764851849:0;npx nx@latest init --integrated
+: 1764852877:0;git add .
+: 1764852893:0;git status
+: 1764853004:0;npx nx serve portal-admin-frontend -c staging
+: 1764853120:0;git status
+: 1764853127:0;git reset HEAD
+: 1764853133:0;git reset HEAD~ --h
+: 1764853139:0;git status
+: 1764853158:0;rm -rf .nx apps karma.conf.js libs nx.json tools tsconfig.base.json
+: 1764853161:0;git status
+: 1764853165:0;npm ci
+: 1764853293:0;npx nx@latest init
+: 1764853543:0;git status
+: 1764853887:0;git add .
+: 1764853891:0;git status
+: 1764853896:0;git commit
+: 1764854018:0;git commit -n
+: 1764854044:0;git status
+: 1764854085:0;npx nx g convert-to-monorepo
+: 1764854231:0;npx nx g convert-to-monorepo --verbose
+: 1764854435:0;npx nx g convert-to-monorepo
+: 1764857347:0;npx nx g convert-to-monorepo --verbose
+: 1765287075:0;clear
+: 1765287095:0;git pull
+: 1765287099:0;git status
+: 1765287103:0;git switch master
+: 1765287130:0;git pull
+: 1765287604:0;git pull &
+: 1765287609:0;npm ci
+: 1765287634:0;git dog
+: 1765287642:0;npm ci
+: 1766067890:0;npm run build
+: 1766087858:0;git status
+: 1766087861:0;git add lib/
+: 1766087864:0;git commit 
+: 1766088117:0;npm test
+: 1766088156:0;npm run build
+: 1767791031:0;git status
+: 1767791039:0;git dog
+: 1767791048:0;git diff
+: 1767791062:0;git add .kiro/
+: 1767791066:0;git add bin/mototalk-cdk.ts
+: 1767791069:0;git commit
+: 1767791079:0;git status
+: 1767791447:0;git switch -c separate_iac
+: 1767791574:0;git dog
+: 1767791605:0;git reset c85190c --h
+: 1767791616:0;git status
+: 1767791688:0;rm -rf bin lib node_module test .gitignore .npmignore cdk.json jest.config.js package.json package-lock.json README.md tsconfig.json
+: 1767791703:0;cdk 
+: 1767811445:0;rm -rf node_modules
+: 1767811467:0;mkfir project1
+: 1767811475:0;mkdir project1
+: 1767811477:0;cd project1
+: 1767811480:0;cdk init
+: 1767811487:0;cdk init app
+: 1767811504:0;cdk init app --language=typescript
+: 1767811736:0;..
+: 1767811740:0;mkdir project2
+: 1767811742:0;cd project2
+: 1767811749:0;cdk init app --language=typescript
+: 1767811983:0;git status
+: 1767811993:0;..
+: 1767811999:0;git add project*
+: 1767812002:0;git status
+: 1767812008:0;git add .idea/
+: 1767812011:0;git commit
+: 1767812441:0;git status
+: 1767812452:0;git reset HEAD --h
+: 1767812453:0;git status
+: 1767812479:0;git amend-ne-a
+: 1767812777:0;git status
+: 1767812794:0;npx nx build project1 
+: 1767812926:0;npx nx cdk project1
+: 1767812952:0;npx nx cdk synth project1
+: 1767812963:0;npx nx cdk project1:synth
+: 1767812972:0;cd project1
+: 1767812981:0;cdk synth
+: 1767813091:0;npx nx synth project1
+: 1767813196:0;nx
+: 1767813404:0;git status
+: 1767813409:0;git add .
+: 1767813412:0;git add ..
+: 1767813415:0;git commit
+: 1767835572:0;npx nx build project1 
+: 1767835585:0;npx nx build project2
+: 1767835615:0;npx nx synth project2
+: 1767875473:0;npx nx build project2
+: 1767875487:0;npx nx synth project2
+: 1767875674:0;npx nx build project2
+: 1767875689:0;npx nx synth project2
+: 1767876480:0;git add .
+: 1767876482:0;git status
+: 1767876485:0;git add ..
+: 1767876487:0;..
+: 1767876489:0;git status
+: 1767876496:0;git dog
+: 1767876503:0;git commit
+: 1767901495:0;git status
+: 1767901497:0;git add .
+: 1767901499:0;git commit
+: 1768482461:0;git pull
+: 1768830982:0;clear
+: 1768831125:0;git pull
+: 1768831153:0;git switch release
+: 1768831157:0;git rb
+: 1768831173:0;git fetch ssh://empoiate@gerrit.mot.com:29418/iDEN_2.0/server/TradeWebBackendServer refs/changes/94/3598394/9 && git cherry-pick FETCH_HEAD
+: 1768832775:0;fnm use 24
+: 1768832777:0;npm ci
+: 1768832788:0;npm install
+: 1768832880:0;npm audit fix
+: 1768917577:0;git status
+: 1768917581:0;git reset HEAD --h
+: 1768917585:0;rm .kiro
+: 1768917590:0;rm .kiro -rf
+: 1768917595:0;rmdir --help
+: 1768937239:0;git status
+: 1768944652:0;git add .
+: 1768944656:0;git status
+: 1768944660:0;git amend-ne
+: 1768944667:0;git reset HEAD --h
+: 1768944670:0;git status
+: 1768944704:0;git amend-ne-
+: 1768944706:0;git amend-ne-a
+: 1768945015:0;git status
+: 1768945027:0;git push origin HEAD:refs/for/beta-migration
+: 1768945040:0;cdk synth
+: 1768945066:0;cdk synth Beta/*
+: 1768945071:0;cdk synth "Beta/*"
+: 1768945096:0;npm install -g aws-cdk
+: 1768945130:0;cdk build
+: 1768945136:0;npm run build
+: 1768945195:0;cdk synth "Beta/*"
+: 1768945225:0;cdk synth
+: 1768945338:0;cdk synth --all
+: 1768945366:0;cdk synth --help
+: 1768945454:0;npm run build
+: 1768945477:0;cdk synth
+: 1768945548:0;npm run build
+: 1768945560:0;cdk synth
+: 1768945722:0;cdk diff
+: 1768945778:0;cat ~/.aws/credentials
+: 1768945789:0;cdk diff --profile omicrondev
+: 1768945858:0;cat ~/.aws/config
+: 1768945872:0;cdk bootstrap --profile omicrondev
+: 1768956173:0;clear
+: 1768956180:0;npm run build
+: 1768956236:0;cdk synth
+: 1768995615:0;which fnm
+: 1768995621:0;which npx
+: 1768996378:0;where npx
+: 1768996384:0;which where
+: 1768996391:0;where which
+: 1768996401:0;which which
+: 1768996409:0;where where
+: 1768997538:0;$(which npx)  -y @upstash/context7-mcp
+: 1768997580:0;clear
+: 1769006219:0;git status
+: 1769006302:0;rm .DS_Store -rf 
+: 1769006305:0;git status
+: 1769006312:0;git show HEAD
+: 1769006322:0;git add .
+: 1769006324:0;git commit
+: 1769006564:0;git amend-ne-a
+: 1769006654:0;git status
+: 1769006686:0;git amend-ne-a
+: 1769006721:0;git push origin HEAD:refs/for/beta-migration
+: 1769017145:0;git amend-ne-a
+: 1769017156:0;git status
+: 1769017160:0;git push origin HEAD:refs/for/beta-migration
+: 1769024153:0;clear
+: 1769027153:0;git pull
+: 1769124150:0;ls
+: 1769124186:0;npm run build
+: 1769124207:0;npx cdk synth
+: 1769433099:0;ls
+: 1769433103:0;npm install
+: 1769433180:0;npm run cdk:build
+: 1769433187:0;npm run build
+: 1769433226:0;npm run cdk:synth
+: 1769433334:0;git status
+: 1769433356:0;git add .
+: 1769433358:0;git commit
+: 1769433391:0;git status
+: 1769433411:0;npm install
+: 1769433446:0;npm run cdk:synth
+: 1769433538:0;npm install
+: 1769433564:0;npm run cdk:synth
+: 1769433687:0;ls -la cdk.out/ | head -20
+: 1769433704:0;cat cdk.out/SecurityInspectorFindingsStack.template.json | head -100
+: 1769433726:0;clear
+: 1769433732:0;cdk synth
+: 1769433816:0;cdk diff
+: 1769433996:0;git status
+: 1769434005:0;git add .
+: 1769434008:0;git commit
+: 1769434029:0;git checkout HEAD~2
+: 1769434034:0;git dog release
+: 1769434114:0;cdk migrate --from-path template.yaml
+: 1769434151:0;cdk migrate --from-path template.yaml --stack-name SecurityInspectorFindingsStack
+: 1769434547:0;cdk migrate --from-stack --stack-name SecurityInspectorFindingsStack
+: 1769435597:0;clear
+: 1769452411:0;git status
+: 1769452417:0;git dog
+: 1769452423:0;git switch release
+: 1769452438:0;git reset origin/release
+: 1769452441:0;git reset origin/release --h
+: 1769452447:0;git status
+: 1769452460:0;rm cdk.json CDK_MIGRATION.md cdk.out -rf
+: 1769452470:0;rm -rf infrastructure tsconfig.json
+: 1769452473:0;git status
+: 1769521797:0;git add .
+: 1769521818:0;git merge --abort
+: 1769521835:0;git status
+: 1769521840:0;git switch angular-14
+: 1769522032:0;git amend
+: 1769522070:0;git switch development
+: 1769522183:0;git status
+: 1769522195:0;git restore -SW ..
+: 1769522199:0;git status
+: 1769522208:0;rm -rf ../infrastructure
+: 1769522214:0;git restore -SW ..
+: 1769522220:0;git status
+: 1769522265:0;git amend
+: 1769522299:0;nvim ../.husky/commit-msg
+: 1769522305:0;nvim .lintstagedrc.json
+: 1769522320:0;git show HEAD
+: 1769522358:0;git push origin HEAD:refs/for/angular-14
+: 1769537572:0;node deploy.js development
+: 1769538682:0;git fetch
+: 1769538688:0;git fetch &
+: 1769538690:0;git dog
+: 1769538701:0;git dog tmp-14
+: 1769538744:0;git fetch
+: 1769539217:0;git switch tmp-14
+: 1769539220:0;git dog
+: 1769539232:0;git rbia origin/release
+: 1769640910:0;ls
+: 1769640918:0;npm ci
+: 1769640951:0;cdk synth
+: 1769641012:0;npm install -g aws-cdk
+: 1769641046:0;npm audit
+: 1769641053:0;npm audit fix
+: 1769641171:0;npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+: 1769641244:0;npm run lint
+: 1769641270:0;npm install --save-dev @eslint/js
+: 1769641293:0;npm run lint
+: 1769641343:0;npm run lint:fix
+: 1769641422:0;npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier
+: 1769641465:0;clear
+: 1769641468:0;git status
+: 1769641499:0;git add .
+: 1769641502:0;git status
+: 1769641521:0;git add eslint.config.js
+: 1769641536:0;git add eslint.config.js -f
+: 1769641561:0;git status
+: 1769641564:0;git add .
+: 1769641586:0;npm run format:check
+: 1769641600:0;npm run format
+: 1769641987:0;npm run lint
+: 1769642196:0;git status
+: 1769642199:0;git add .
+: 1769642201:0;git status
+: 1769642314:0;npm install --save-dev eslint @eslint/js typescript typescript-eslint
+: 1769642331:0;git status
+: 1769642339:0;git diff package.json
+: 1769642566:0;npx eslint
+: 1769642641:0;git reset HEAD 
+: 1769642644:0;git reset HEAD -h
+: 1769642671:0;git status
+: 1769642675:0;git reset HEAD -h
+: 1769642689:0;git reset HEAD --h
+: 1769642708:0;git status
+: 1769642744:0;git add .
+: 1769642781:0;npm install --save-dev eslint @eslint/js typescript typescript-eslint prettier eslint-config-prettier eslint-plugin-prettier
+: 1769642796:0;npm audit fix
+: 1769642878:0;npm install --save-dev husky
+: 1769642905:0;git status
+: 1769642913:0;git add .
+: 1769642916:0;git commit
+: 1769642949:0;npx husky init
+: 1769643051:0;npm run prepare
+: 1769643062:0;git add .
+: 1769643065:0;git commit
+: 1769643121:0;npm i lint-staged --save-dev
+: 1769643195:0;git add .
+: 1769643197:0;git commit
+: 1769643248:0;...
+: 1769643258:0;nvim .husky/pre-commit
+: 1769643293:0;git add .
+: 1769643297:0;git amend-ne-a
+: 1769643328:0;git status
+: 1769643331:0;git add .
+: 1769643334:0;git commit
+: 1769643375:0;git status
+: 1769643378:0;git add .
+: 1769643383:0;git amend-ne-a
+: 1769643411:0;nvim .husky/pre-commit
+: 1769643426:0;git status
+: 1769643437:0;nvim .husky/pre-commit
+: 1769643587:0;git amend-ne-a
+: 1769643610:0;cd infrastructure/mototalk-cdk
+: 1769643614:0;git amend-ne-a
+: 1769643625:0;nvim ../../.husky/pre-commit
+: 1769643641:0;git amend-ne-a
+: 1769643651:0;nvim ../../.husky/pre-commit
+: 1769643663:0;...
+: 1769643675:0;npx lint-staged --help
+: 1769643725:0;cp portal-admin-frontend/.lintstagedrc.json infrastructure/mototalk-cdk
+: 1769643823:0;npx lint-staged --help
+: 1769643846:0;npx lint-staged --cwd infrastructure/mototalk-cdk
+: 1769643867:0;git status
+: 1769643870:0;git add .
+: 1769643873:0;npx lint-staged --cwd infrastructure/mototalk-cdk
+: 1769643907:0;cp portal-admin-frontend/.editorconfig infrastructure/mototalk-cdk
+: 1769643918:0;git add .
+: 1769643943:0;git amend-ne-a
+: 1769644091:0;npm run build
+: 1769644101:0;cd infrastructure/mototalk-cdk
+: 1769644102:0;npm run build
+: 1769644746:0;git status
+: 1769644749:0;git add .
+: 1769644765:0;git status
+: 1769644772:0;git amend
+: 1769644789:0;git status
+: 1769644807:0;git rbia
+: 1769644853:0;nvim ../../.husky/pre-commit
+: 1769644864:0;git amend-ne-a
+: 1769644916:0;cdk synth
+: 1769645218:0;git status
+: 1769645222:0;git reset HEAD --h
+: 1769646934:0;cdk --version
+: 1769686360:0;clear
+: 1769686496:0;git dog
+: 1769687008:0;git status
+: 1769687014:0;npm run build
+: 1769687054:0;cdk synth
+: 1769687098:0;cdk synth --profile estudo
+: 1769687648:0;cdk synth --profile estudo "Test/*"
+: 1769687722:0;cdk synth --profile estudo "Test/NetworkStack"
+: 1769688207:0;cdk synth --profile estudo "Test/NetworkMStack"
+: 1769688302:0;git status
+: 1769688306:0;git reset HEAD --h
+: 1769688338:0;cdk deploy --profile estudo "Test/Netw*"
+: 1769688724:0;cdk deploy --profile estudo "Test/MyNetw*"
+: 1769688978:0;cdk destroy --profile estudo "Test/MyNetw*"
+: 1769689528:0;cdk deploy --profile estudo "Test/Netw*"
+: 1769690102:0;cdk synth --profile estudo "Test/NetworkMStack"
+: 1769690106:0;cdk synth --profile estudo "Test/NetworkStack"
+: 1769690200:0;cdk deploy --profile estudo "Test/Netw*"
+: 1769690393:0;cdk destroy --profile estudo "Test/Netw*"
+: 1769691249:0;cdk diff --profile estudo
+: 1769699503:0;git fetch &
+: 1769699507:0;git switch tmp-14
+: 1769699517:0;git status
+: 1769699521:0;git reset HEAD --h
+: 1769699524:0;git switch tmp-14
+: 1769699529:0;jobs
+: 1769699558:0;git rbia origin/release
+: 1769699589:0;git dog
+: 1769699596:0;git amend
+: 1769699685:0;git status
+: 1769699716:0;rmdir ../infrastructure/mototalk-cdk
+: 1769699720:0;rmdir ../infrastructure/mototalk-cdk -rf
+: 1769699725:0;rm ../infrastructure/mototalk-cdk -rf
+: 1769699737:0;git status
+: 1769699749:0;git push origin HEAD:refs/for/angular-14
+: 1769699878:0;git dog
+: 1769700158:0;git pull
+: 1769700162:0;git switch angular-14
+: 1769700173:0;git reset tmp-14 --h
+: 1769700177:0;git pull
+: 1769700233:0;git switch homologation
+: 1769700239:0;git rb
+: 1769700251:0;git merge angular-14 --no-commit
+: 1769708992:0;npm install
+: 1769709296:0;rm package-lock.json
+: 1769709298:0;npm install
+: 1769709339:0;npm run fullinstall
+: 1769709874:0;git add .
+: 1769709883:0;git status
+: 1769709922:0;git commit
+: 1769709953:0;git status
+: 1769709956:0;git stash
+: 1769709964:0;ng serve -c staging
+: 1769711928:0;cd init app --language=typescript
+: 1769711934:0;cdk init app --language=typescript
+: 1769712009:0;clear
+: 1769712123:0;git status
+: 1769712126:0;git add .
+: 1769712128:0;git commit
+: 1769712436:0;git status  
+: 1769712445:0;git add .kiro/specs/aws-infrastructure-setup/requirements.md
+: 1769712448:0;git commit
+: 1769712891:17;npm run build
+: 1769712961:0;npx cdk synth
+: 1769712995:0;npm test
+: 1769713158:0;npm run build
+: 1769718242:0;cdk synth
+: 1769719809:0;git reset HEAD --h
+: 1769719813:0;git status
+: 1769719834:0;rm .kiro/specs/aws-infrastructure-setup -rf
+: 1769719839:0;git status
+: 1769719848:0;rm lib/types lib/utils -rf
+: 1769719878:0;git status
+: 1769719890:0;rm .kiro/specs/aws-infrastructure-setup -rf
+: 1769719893:0;git status
+: 1769719899:0;git dog
+: 1769719912:0;git reset HEAD~ --h
+: 1769720015:0;git status
+: 1769721008:0;git add .
+: 1769721076:0;git status
+: 1769721084:0;git amend-ne-a
+: 1769721087:0;git dog
+: 1769721265:0;npm run build
+: 1769721280:0;cdk synth
+: 1769721297:0;cdk synth Test
+: 1769721328:0;git status
+: 1769721330:0;git add .
+: 1769721332:0;git status
+: 1769721364:0;git commit -a 
+: 1769721543:0;git amend-ne-a
+: 1769721834:0;git add .
+: 1769721835:0;git status
+: 1769721843:0;git commit
+: 1769722878:0;git status
+: 1769722884:0;git add .kiro/specs/shared-infrastructure/requirements.md
+: 1769722887:0;git amend-ne-a
+: 1769723186:0;git status
+: 1769723189:0;git add .
+: 1769723193:0;git status
+: 1769723200:0;git add .
+: 1769723203:0;git commit 
+: 1769723458:0;git add .
+: 1769723460:0;git status
+: 1769723463:0;git amend-ne-a
+: 1769724010:0;git status
+: 1769724014:0;git add .
+: 1769724015:0;git commit
+: 1769724186:0;npm run build
+: 1769724212:0;npm test -- --testPathPattern=test/shared
+: 1769724219:0;npm test -- --testPathPatterns=test/shared
+: 1769724664:0;npm run build
+: 1769724828:0;git status
+: 1769724835:0;git add tsconfig.json .gitignore
+: 1769724837:0;git status
+: 1769724849:0;git dog
+: 1769724864:0;git fixup f8834a5 
+: 1769724868:0;git status
+: 1769724873:0;git dog
+: 1769724880:0;git rbia
+: 1769724894:0;git rbia f8834a5 
+: 1769724909:0;git dog
+: 1769724916:0;git rbia
+: 1769724919:0;git rbia f8834a5 
+: 1769724927:0;git dog
+: 1769724933:0;git add .kiro/specs/shared-infrastructure/tasks.md
+: 1769724935:0;git amend-ne-a
+: 1769724941:0;git status
+: 1769724964:0;git restore -SW .kiro/specs/shared-infrastructure/tasks.md
+: 1769724982:0;git status
+: 1769724985:0;git add .
+: 1769724989:0;git status
+: 1769725128:0;git commit
+: 1769725223:0;npm run build
+: 1769725239:0;npm test -- --testPathPattern=network-stack.test.ts --run
+: 1769725246:0;npm test -- --testPathPatterns=network-stack.test.ts
+: 1769725295:0;npm run build
+: 1769725311:0;npm test -- --testPathPatterns=network-stack.test.ts
+: 1769725416:0;npx cdk synth --app "npx ts-node --prefer-ts-exts bin/mototalk-app.ts" 2>/dev/null | head -50
+: 1769725578:0;npm run build
+: 1769725594:0;npm test -- --testPathPatterns=network-stack.test.ts
+: 1769725680:0;npm run build
+: 1769725752:0;rm -rf dist && npm run build
+: 1769725790:0;npm test -- --testPathPatterns=network-stack.test.ts
+: 1769727633:0;git status
+: 1769727637:0;git add .kiro/
+: 1769727640:0;git status
+: 1769727651:0;git restore -W .
+: 1769727652:0;git status
+: 1769727733:0;git commit
+: 1769727801:0;git amend-ne-a
+: 1769772297:0;git status
+: 1769772301:0;git fetch
+: 1769772629:0;git fetch & 
+: 1769772647:0;jobs
+: 1769772690:0;kill%2
+: 1769772693:0;kill %2
+: 1769772702:0;jobs -p
+: 1769772707:0;git dog
+: 1769772722:0;git reset origin/homologation --h
+: 1769772731:0;git switch angular-14
+: 1769772741:0;git rb
+: 1769772744:0;git dog
+: 1769772751:0;git switch release
+: 1769772775:0;git reset origin/release --h
+: 1769772784:0;git merge angular-14 --no-commit
+: 1769772788:0;git status
+: 1769772818:0;npm run test:ci
+: 1769772825:0;npm ci
+: 1769773125:0;git status
+: 1769773130:0;ng serve -c staging
+: 1769773336:0;npm run test:ci
+: 1769773581:0;git status
+: 1769773714:0;git commit
+: 1769773811:0;git status
+: 1769773819:0;nvim .lintstagedrc.json
+: 1769773834:0;git commit
+: 1769773841:0;nvim .lintstagedrc.json
+: 1769773858:0;git commit
+: 1769773918:0;git amend
+: 1769773946:0;git status
+: 1769773971:0;npm install --save-dev @types/node@^16.10.0
+: 1769774008:0;ng serve -c staging
+: 1769774331:0;npm install --save-dev @types/node@~16.10.0
+: 1769774368:0;ng serve -c staging
+: 1769774605:0;ng build -c staging
+: 1769774849:0;git status
+: 1769774854:0;npm run test:ci
+: 1769775154:0;git add package*
+: 1769775157:0;git status
+: 1769775161:0;git amend-ne
+: 1769775183:0;git push-release
+: 1769775215:0;git switch homologation
+: 1769775222:0;git dog
+: 1769775232:0;git merge angular-14 --no-commit
+: 1769775255:0;npm install --save-dev @types/node@~16.10.0
+: 1769775267:0;npm install
+: 1769775274:0;rm package-lock.json
+: 1769775276:0;npm install --save-dev @types/node@~16.10.0
+: 1769775340:0;git add package*
+: 1769775496:0;clear
+: 1769775503:0;git status
+: 1769776351:0;git add .
+: 1769776363:0;git status
+: 1769776366:0;git commit
+: 1769776453:0;npm ci
+: 1769776572:0;npm run fullinstall
+: 1769776721:0;ng build -c staging
+: 1769776953:0;git dog angular-14
+: 1769776960:0;git dog angular-14 release
+: 1769776987:0;git reset HEAD~ --h
+: 1769776994:0;npm ci
+: 1769777137:0;npm run fullinstall
+: 1769777150:0;npm run preinstall
+: 1769777156:0;npm ci
+: 1769777288:0;ng build -c staging
+: 1769777299:0;git merge angular-14 --no-commit
+: 1769777417:0;npm install
+: 1769777435:0;rm package-lock.json && npm install
+: 1769777508:0;git status
+: 1769777515:0;rm package-lock.json
+: 1769777520:0;npm install
+: 1769777564:0;rm node_modules -rf
+: 1769777572:0;npm install
+: 1769777592:0;npm run preinstall && npm run i
+: 1769777601:0;npm run preinstall && npm  i
+: 1769778031:0;git status
+: 1769778455:0;git add .
+: 1769778461:0;npm install --save-dev @types/node@~16.10.0
+: 1769778505:0;git status
+: 1769778526:0;git commit -a
+: 1769778575:0;git status
+: 1769778642:0;git dog
+: 1769778662:0;git reset origin/homologation --h
+: 1769778678:0;git status
+: 1769778691:0;git reset origin/homologation --h
+: 1769778716:0;rm /home/epoiate/WebstormProjects/portal-frontend/.git/index.lock
+: 1769778719:0;git reset origin/homologation --h
+: 1769778729:0;git merge angular-14 --no-commit
+: 1769778753:0;npm run preinstall && rm node_modules && npm install
+: 1769778772:0;npm run preinstall && rm node_modules && npm install @types/node@~16.10.0 --save-dev
+: 1769778846:0;rm node_modules -rf && npm install @types/node@~16.10.0 --save-dev
+: 1769778877:0;rm package-lock.json
+: 1769778889:0;npm install --save-dev @types/node@~16.10.0
+: 1769779277:0;git status
+: 1769779774:0;git add .
+: 1769779778:0;git status
+: 1769779795:0;git commit
+: 1769779870:0;npm ci
+: 1769779894:0;npm install
+: 1769780017:0;ng build -c staging
+: 1769780329:0;npm run test:ci
+: 1769780640:0;git status
+: 1769780644:0;git add package-lock.json
+: 1769780649:0;git amend-ne
+: 1769780661:0;git push-homolog
+: 1769796882:0;git pull
+: 1769797033:0;git fetch & 
+: 1769797059:0;git branch -D temp
+: 1769797063:0;git branch -D tmp
+: 1769797067:0;git branch -D tmp-14
+: 1769797071:0;git branch tmp
+: 1769797077:0;git reset origin/homologation --h
+: 1769797116:0;git switch tmp
+: 1769797127:0;git dog tmp homologation
+: 1769797138:0;git cp homologation
+: 1769797285:0;git switch angular-14
+: 1769797289:0;git pull &
+: 1769797344:0;jobs -p
+: 1769797353:0;git pull &
+: 1769797355:0;jobs -p
+: 1769797414:0;git switch homologation
+: 1769797433:0;git switch tmp
+: 1769797441:0;git merge angular-14
+: 1769797500:0;git commit
+: 1769797529:0;git status
+: 1769797532:0;git switch homologation
+: 1769797564:0;git merge angular-14 --no-commit
+: 1769797570:0;..
+: 1769797581:0;rm -rf ./*
+: 1769797624:0;git checkout tmp -- .
+: 1769797647:0;git status
+: 1769797665:0;git checkout tmp -- .
+: 1769797670:0;git status
+: 1769797684:0;git add .
+: 1769797698:0;git status
+: 1769797721:0;git commit
+: 1769797755:0;git push-homolog
+: 1769799613:0;git status
+: 1769799624:0;git restore -W .
+: 1769799628:0;ls
+: 1769799630:0;git status
+: 1769799632:0;git dog
+: 1769800105:0;git status
+: 1769800128:0;npm install
+: 1769800152:0;git status
+: 1769800157:0;git add .
+: 1769800159:0;git commit
+: 1770060964:0;cat ~/.kiro/settings/mcp.json
+: 1770061027:0;git status
+: 1770061029:0;git dog
+: 1770061038:0;git commit
+: 1770061041:0;git commit -a
+: 1770061073:0;git dog
+: 1770061083:0;git reset ace914f --h
+: 1770061309:0;git status
+: 1770061504:0;git reset ace914f --h
+: 1770061671:0;git status
+: 1770061721:0;git add .
+: 1770061723:0;git status
+: 1770061753:0;git add .
+: 1770061756:0;npm run build
+: 1770061765:0;cdk synth Test
+: 1770061783:0;git status
+: 1770061793:0;git fixup HEAD
+: 1770061913:0;mkdir -p .kiro/steering
+: 1770061933:0;git status
+: 1770061939:0;rm -rf .kiro
+: 1770062191:0;clear
+: 1770062195:0;git add .
+: 1770062197:0;git statu
+: 1770062199:0;git commit
+: 1770062212:0;git status
+: 1770062455:0;git fh -a
+: 1770062825:0;git status
+: 1770062827:0;git add .
+: 1770062828:0;git status
+: 1770062850:0;git commit
+: 1770063138:0;git commit -a
+: 1770063142:0;git add .
+: 1770063143:0;git commit -a
+: 1770063498:0;git fh -a
+: 1770064255:0;git status
+: 1770064257:0;git dog
+: 1770064315:0;git add .kiro/steering/structure.md
+: 1770064330:0;git fixup 0cc2b25
+: 1770064334:0;git status
+: 1770064508:0;git add .
+: 1770064528:0;git commit
+: 1770064784:0;git add .
+: 1770064786:0;git status
+: 1770064789:0;git commit
+: 1770064927:0;git status
+: 1770064997:0;git restore -W .
+: 1770065189:0;git add .
+: 1770065192:0;git fh -a
+: 1770065309:0;git status
+: 1770065312:0;git add .
+: 1770065314:0;git status
+: 1770065343:0;git commit
+: 1770065460:0;npm run build
+: 1770065663:0;git status
+: 1770065665:0;git add .
+: 1770065684:0;git status
+: 1770065693:0;git comm
+: 1770065695:0;git commit
+: 1770065819:0;npm run build
+: 1770066032:0;git status
+: 1770066042:0;git fh -a
+: 1770066095:0;npm run build
+: 1770066172:0;npx cdk synth --quiet
+: 1770066798:0;git add .
+: 1770066824:0;cdk synth T
+: 1770066827:0;cdk synth 
+: 1770066880:0;git status
+: 1770066885:0;git commit
+: 1770066996:10;npm run build
+: 1770067012:0;npx cdk synth
+: 1770067159:0;git stauts
+: 1770067163:0;git add .
+: 1770067204:0;git status
+: 1770067209:0;git commit
+: 1770067234:0;npx cdk synth --list
+: 1770067282:0;cdk acknowledge 34892
+: 1770067288:0;git status
+: 1770067298:0;git amend-ne-a
+: 1770067311:0;npx cdk synth Test/*
+: 1770067317:0;npx cdk synth "Test/*"
+: 1770068287:0;npx cdk synth "Test/*" --profile estudo
+: 1770068433:21;npm test -- test/modules/shared/network-stack.test.ts
+: 1770069123:0;npm run build
+: 1770069153:0;git status
+: 1770069156:0;git add .
+: 1770069161:0;git status
+: 1770069183:0;git commit
+: 1770069246:0;npm test -- --testPathPattern=mototalk.test.ts
+: 1770069253:0;npm test -- --testPathPatterns=mototalk.test.ts
+: 1770069457:0;git status
+: 1770069459:0;git add .
+: 1770069462:0;git commit
+: 1770071148:0;npm test -- --testNamePattern="Property 2: ALB subnet placement correctness"
+: 1770071232:0;git commit -a
+: 1770071271:0;npm test
+: 1770071317:0;npx cdk synth
+: 1770071365:0;npm run build
+: 1770071391:0;git status
+: 1770071393:0;git add .
+: 1770071397:0;git commit -a
+: 1770071490:0;npm test -- --testNamePattern="Property 3: Export completeness and naming" --verbose
+: 1770071601:0;npm test -- --testNamePattern="Property 4: CDK default usage" --verbose
+: 1770071707:0;npm test -- --testNamePattern="NetworkStack Unit Tests" --verbose
+: 1770071812:0;npm test
+: 1770071949:0;npm test -- --testNamePattern="Property 4: CDK default usage" --verbose
+: 1770072044:0;npm test
+: 1770072278:0;git status
+: 1770072281:0;git add .
+: 1770072283:0;git commit -a
+: 1770072432:0;npm run build
+: 1770072466:0;node -e "const shared = require('./dist/lib/modules/shared/index.js'); console.log('Exported items:', Object.keys(shared));"
+: 1770072472:0;npm test
+: 1770072694:0;npm run build
+: 1770072710:0;npx cdk synth
+: 1770072795:0;git status
+: 1770072797:0;git add .
+: 1770072802:0;git commit -a
+: 1770072820:0;git status
+: 1770072824:0;git rbia
+: 1770072828:0;git rbia f8834a5 
+: 1770072838:0;git dog
+: 1770072846:0;git rbia f8834a5 
+: 1770072859:0;git dog
+: 1770116337:0;cdk list
+: 1770116399:0;cdk help
+: 1770247594:0;npm run build
+: 1770247631:0;cdk synth
+: 1770247696:0;cdk list
+: 1770247798:0;cdk synth "Test/DatabaseStack"
+: 1771867830:0;git pull
+: 1771867842:0;git switch beta-migration
+: 1771867847:0;git status
+: 1771867856:0;git restore -W .
+: 1771867862:0;git restore -W ../..
+: 1771867866:0;git status
+: 1771867868:0;git switch beta-migration
+: 1771867872:0;git pull
+: 1771867949:0;git dog
+: 1771868831:0;cdk synth "Test/DatabaseStack"
+: 1771868885:0;npm install -g aws-cdk
+: 1771869005:0;cdk acknowledge 37013
+: 1771869020:0;npm install
+: 1771869030:0;git status
+: 1771869036:0;git add .
+: 1771869039:0;git commit
+: 1771869079:0;git status
+: 1771869147:0;git rbc
+: 1771869152:0;git status
+: 1771869161:0;git rba
+: 1771869165:0;git status
+: 1771869175:0;git dog
+: 1771869194:0;git dog beta-migration origin/beta-migration
+: 1771869221:0;git reset origin/beta-migration --h
+: 1771869226:0;git pull
+: 1771869265:0;npm install aws-cdk@latest
+: 1771869299:0;npm run synth
+: 1771869351:0;npm run synth "Test/Data"
+: 1771869394:0;npm run synth "Test/Data*"
+: 1771869797:0;git status
+: 1771870899:0;git add .
+: 1771870901:0;git status
+: 1771871002:0;git add .
+: 1771871005:0;git status
+: 1771871044:0;git commit
+: 1771871130:0;git add .
+: 1771871132:0;git commit
+: 1771871534:0;npm run build
+: 1771871552:0;npm run synth "Test/*"
+: 1771871600:0;git amend-ne-a
+: 1771873031:0;npm run build
+: 1771873043:0;git status
+: 1771873045:0;git add .
+: 1771873137:0;git commit
+: 1771873192:0;git commit -a
+: 1771874379:0;git status
+: 1771874394:0;git restore -S .
+: 1771874396:0;git status
+: 1771874427:0;git add lib/productivity/
+: 1771874433:0;git amend-ne
+: 1771874827:0;git add .
+: 1771874830:0;git status
+: 1771874834:0;git commit
+: 1771875537:0;git add .
+: 1771875548:0;git amend-ne-a
+: 1771875643:0;git status
+: 1771875646:0;git add .
+: 1771875651:0;git commit
+: 1771875678:0;npm run build
+: 1771875815:0;cdk synth
+: 1771875842:0;cdk synth --profile estudo
+: 1771875923:0;cdk synth --profile estudo "Test/PortalAdmin"
+: 1771875926:0;cdk synth --profile estudo "Test/PortalAdmin*"
+: 1771875960:0;cdk synth --profile estudo "Test/PortalAdmin"
+: 1771875966:0;cdk synth --profile estudo "Test/PortalAdmin*"
+: 1771876247:0;git status
+: 1771879608:0;git add .
+: 1771879610:0;git status
+: 1771879614:0;git dog
+: 1771879623:0;git amend-ne-a
+: 1771880602:0;npm run build
+: 1771880976:0;git status
+: 1771880983:0;git add .
+: 1771881054:0;npm run build
+: 1771881281:0;git status
+: 1771881283:0;git add .
+: 1771881286:0;git status
+: 1771881291:0;git amend-ne-a -n
+: 1771881295:0;git amend
+: 1771882922:0;git status
+: 1771882927:0;git dog
+: 1771887816:0;git status
+: 1771887821:0;git add .
+: 1771887823:0;git status
+: 1771887833:0;git dog
+: 1771887841:0;git amend-ne-a -n
+: 1774012990:0;git statu
+: 1774012996:0;git switch release
+: 1774012998:0;git pull
+: 1774013175:0;git status
+: 1774013190:0;rm -rf infrastructure/mototalk-cdk
+: 1774013199:0;git switch master
+: 1774013202:0;git rb
+: 1774013217:0;git cp d0dfcc6a0f1ea40b2ac18786178e735794b0bbe9

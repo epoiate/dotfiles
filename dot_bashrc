@@ -132,3 +132,7 @@ export EDITOR=vim
 
 # Load Angular CLI autocompletion.
 source <(ng completion script)
+
+[[ "$TERM_PROGRAM" == "kiro" ]] && . "$(kiro --locate-shell-integration-path bash)"
+
+. "$HOME/.local/share/../bin/env"
